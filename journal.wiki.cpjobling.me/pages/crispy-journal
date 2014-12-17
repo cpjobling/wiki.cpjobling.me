@@ -1,0 +1,75 @@
+{
+  "title": "Crispy Journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4e8153432a457e50",
+      "text": "I stole this idea and structure from Ward Cunningham's [[Active Journal]] and he in turn borrowed the concept from Mike Caulfield's [[Journal for 2014]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "7ce3f990d47276aa",
+      "text": "You can read my [[Crispy Journal]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Crispy Journal",
+        "story": []
+      },
+      "date": 1418833582431
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e8153432a457e50"
+      },
+      "id": "4e8153432a457e50",
+      "type": "add",
+      "date": 1418833585482
+    },
+    {
+      "type": "edit",
+      "id": "4e8153432a457e50",
+      "item": {
+        "type": "paragraph",
+        "id": "4e8153432a457e50",
+        "text": "I stole this idea and structure from Ward Cunnigham's [[Active Journal]] and he in turn borrowed the concept from Mike Caulfield's [["
+      },
+      "date": 1418833639938
+    },
+    {
+      "type": "edit",
+      "id": "4e8153432a457e50",
+      "item": {
+        "type": "paragraph",
+        "id": "4e8153432a457e50",
+        "text": "I stole this idea and structure from Ward Cunningham's [[Active Journal]] and he in turn borrowed the concept from Mike Caulfield's [[Journal for 2014]]."
+      },
+      "date": 1418833659952
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7ce3f990d47276aa",
+        "text": ""
+      },
+      "id": "7ce3f990d47276aa",
+      "type": "add",
+      "after": "4e8153432a457e50",
+      "date": 1418833659958
+    },
+    {
+      "type": "edit",
+      "id": "7ce3f990d47276aa",
+      "item": {
+        "type": "paragraph",
+        "id": "7ce3f990d47276aa",
+        "text": "You can read my [[Crispy Journal]]"
+      },
+      "date": 1418833682763
+    }
+  ]
+}

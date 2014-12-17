@@ -1,0 +1,151 @@
+{
+  "title": "chris-jobling",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d58010096ece283",
+      "text": "This is my Crispy Journal."
+    },
+    {
+      "type": "paragraph",
+      "id": "23d83551728c9ae2",
+      "text": "I stole the idea of this site and it's structure from Ward Cunningham's [[Active Journal]] who stole it from Mike Caulfield's [[Journal for 2014]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "chris-jobling",
+        "story": []
+      },
+      "date": 1418833313675
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d58010096ece283"
+      },
+      "id": "7d58010096ece283",
+      "type": "add",
+      "date": 1418833316616
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": ""
+      },
+      "id": "23d83551728c9ae2",
+      "type": "add",
+      "after": "7d58010096ece283",
+      "date": 1418833330549
+    },
+    {
+      "type": "edit",
+      "id": "23d83551728c9ae2",
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": "I stole this idea from Ward Cunnigham who stole it from Mike Caulfield"
+      },
+      "date": 1418833368498
+    },
+    {
+      "type": "edit",
+      "id": "23d83551728c9ae2",
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": "I stole this idea from Ward Cunningham's [[Active Journa[]] who stole it from Mike Caulfield's [[Journal for 2014]]."
+      },
+      "date": 1418833428880
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c245f0f91bdaf23f",
+        "text": ""
+      },
+      "id": "c245f0f91bdaf23f",
+      "type": "add",
+      "after": "23d83551728c9ae2",
+      "date": 1418833428884
+    },
+    {
+      "type": "edit",
+      "id": "c245f0f91bdaf23f",
+      "item": {
+        "type": "paragraph",
+        "id": "c245f0f91bdaf23f",
+        "text": "See my [[Crispy Journal]]"
+      },
+      "date": 1418833451561
+    },
+    {
+      "type": "edit",
+      "id": "23d83551728c9ae2",
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": "I stole this idea from Ward Cunningham's [[Active Journa]] who stole it from Mike Caulfield's [[Journal for 2014]]."
+      },
+      "date": 1418833467075
+    },
+    {
+      "type": "edit",
+      "id": "23d83551728c9ae2",
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": "I stole this idea from Ward Cunningham's [[Active Journa[]] who stole it from Mike Caulfield's [[Journal for 2014]]."
+      },
+      "date": 1418833476004
+    },
+    {
+      "type": "edit",
+      "id": "23d83551728c9ae2",
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": "I stole this idea from Ward Cunningham's [[Active Journal]] who stole it from Mike Caulfield's [[Journal for 2014]]."
+      },
+      "date": 1418833487141
+    },
+    {
+      "type": "edit",
+      "id": "7d58010096ece283",
+      "item": {
+        "type": "paragraph",
+        "id": "7d58010096ece283",
+        "text": "This is my Journal"
+      },
+      "date": 1418833717948
+    },
+    {
+      "type": "edit",
+      "id": "7d58010096ece283",
+      "item": {
+        "type": "paragraph",
+        "id": "7d58010096ece283",
+        "text": "This is my Crispy Journal."
+      },
+      "date": 1418833737892
+    },
+    {
+      "type": "edit",
+      "id": "23d83551728c9ae2",
+      "item": {
+        "type": "paragraph",
+        "id": "23d83551728c9ae2",
+        "text": "I stole the idea of this site and it's structure from Ward Cunningham's [[Active Journal]] who stole it from Mike Caulfield's [[Journal for 2014]]."
+      },
+      "date": 1418833750945
+    },
+    {
+      "type": "remove",
+      "id": "c245f0f91bdaf23f",
+      "date": 1418833759908
+    }
+  ]
+}

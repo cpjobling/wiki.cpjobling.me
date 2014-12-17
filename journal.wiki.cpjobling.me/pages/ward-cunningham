@@ -1,0 +1,150 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a8d8feed777358e1",
+      "text": "I'm enjoying reading more in the federation. Here is a place that I can fork content without concern for the information architecture that results."
+    },
+    {
+      "type": "paragraph",
+      "id": "153a5cd9ea325981",
+      "text": "I'm inspired by Mike Caulfields willingness to make sites. I'll start by forking from his [[Journal for 2014]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "c3c4fec422abc5c9",
+      "text": "See my [[Active Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef1ca52f1ad7656d",
+      "text": "See [[Happening Folks]], [[Twitter Happening]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ward Cunningham",
+        "story": []
+      },
+      "date": 1414881676966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8d8feed777358e1"
+      },
+      "id": "a8d8feed777358e1",
+      "type": "add",
+      "date": 1414881678866
+    },
+    {
+      "type": "edit",
+      "id": "a8d8feed777358e1",
+      "item": {
+        "type": "paragraph",
+        "id": "a8d8feed777358e1",
+        "text": "I'm enjoying reading more in the federation. Here is a place that I can fork content without concern for the information architecture that results."
+      },
+      "date": 1414881891738
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "153a5cd9ea325981"
+      },
+      "id": "153a5cd9ea325981",
+      "type": "add",
+      "after": "a8d8feed777358e1",
+      "date": 1414881920675
+    },
+    {
+      "type": "edit",
+      "id": "153a5cd9ea325981",
+      "item": {
+        "type": "paragraph",
+        "id": "153a5cd9ea325981",
+        "text": "I'm inspired by Mike Caulfields willingness to make sites. I'll start by forking here."
+      },
+      "date": 1414881965462
+    },
+    {
+      "type": "edit",
+      "id": "153a5cd9ea325981",
+      "item": {
+        "type": "paragraph",
+        "id": "153a5cd9ea325981",
+        "text": "I'm inspired by Mike Caulfields willingness to make sites. I'll start by forking from his [[Journal for 2014]]."
+      },
+      "date": 1414881990278
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c3c4fec422abc5c9",
+        "text": ""
+      },
+      "id": "c3c4fec422abc5c9",
+      "type": "add",
+      "after": "a8d8feed777358e1",
+      "date": 1416327110435
+    },
+    {
+      "type": "edit",
+      "id": "c3c4fec422abc5c9",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c4fec422abc5c9",
+        "text": "See [[Active Journal]]"
+      },
+      "date": 1416327118505
+    },
+    {
+      "type": "move",
+      "order": [
+        "a8d8feed777358e1",
+        "153a5cd9ea325981",
+        "c3c4fec422abc5c9"
+      ],
+      "id": "153a5cd9ea325981",
+      "date": 1416327176438
+    },
+    {
+      "type": "edit",
+      "id": "c3c4fec422abc5c9",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c4fec422abc5c9",
+        "text": "See my [[Active Journal]]"
+      },
+      "date": 1416327182788
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef1ca52f1ad7656d"
+      },
+      "id": "ef1ca52f1ad7656d",
+      "type": "add",
+      "after": "c3c4fec422abc5c9",
+      "date": 1418745631257
+    },
+    {
+      "type": "edit",
+      "id": "ef1ca52f1ad7656d",
+      "item": {
+        "type": "paragraph",
+        "id": "ef1ca52f1ad7656d",
+        "text": "See [[Happening Folks]], [[Twitter Happening]]"
+      },
+      "date": 1418745689591
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1418833456086
+    }
+  ]
+}
