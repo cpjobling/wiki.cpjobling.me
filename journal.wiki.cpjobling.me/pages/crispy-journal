@@ -4,12 +4,12 @@
     {
       "type": "paragraph",
       "id": "4e8153432a457e50",
-      "text": "I stole this idea and structure from Ward Cunningham's [[Active Journal]] and he in turn borrowed the concept from Mike Caulfield's [[Journal for 2014]]."
+      "text": "I plan to write here most days about what I read from twitter, watch on YouTube and listen to in my podcasts."
     },
     {
       "type": "paragraph",
-      "id": "7ce3f990d47276aa",
-      "text": "You can read my [[Crispy Journal]]"
+      "id": "32bef2aab1652716",
+      "text": "Some of my thoughts might turn into more reasoned items on my [http://wiki.cpjobling.me wiki]."
     }
   ],
   "journal": [
@@ -70,6 +70,68 @@
         "text": "You can read my [[Crispy Journal]]"
       },
       "date": 1418833682763
+    },
+    {
+      "type": "edit",
+      "id": "4e8153432a457e50",
+      "item": {
+        "type": "paragraph",
+        "id": "4e8153432a457e50",
+        "text": "Herr"
+      },
+      "date": 1418836420510
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "[[Chris Jobling]]"
+      },
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418836420523
+    },
+    {
+      "type": "edit",
+      "id": "4e8153432a457e50",
+      "item": {
+        "type": "paragraph",
+        "id": "4e8153432a457e50",
+        "text": "I plan to write here most days about what I read from twitter, watch on YouTube and listen to in my podcasts."
+      },
+      "date": 1418836494833
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "32bef2aab1652716",
+        "text": ""
+      },
+      "id": "32bef2aab1652716",
+      "type": "add",
+      "after": "4e8153432a457e50",
+      "date": 1418836494839
+    },
+    {
+      "type": "edit",
+      "id": "32bef2aab1652716",
+      "item": {
+        "type": "paragraph",
+        "id": "32bef2aab1652716",
+        "text": "Some of my thoughts might turn into more reasoned items on my [http://wiki.cpjobling.me wiki]."
+      },
+      "date": 1418836560413
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418836577111
+    },
+    {
+      "type": "remove",
+      "id": "7ce3f990d47276aa",
+      "date": 1418836581308
     }
   ]
 }

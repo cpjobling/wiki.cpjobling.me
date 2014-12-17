@@ -18,8 +18,12 @@
     },
     {
       "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+      "id": "59285499ef067400",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "c215c992b25c55d3",
       "text": "[[Chris Jobling]]"
     },
     {
@@ -421,6 +425,58 @@
       ],
       "id": "ee416d431ebf4fb4",
       "date": 1418833639947
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418836420521
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "59285499ef067400",
+        "text": ""
+      },
+      "id": "59285499ef067400",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1418836653764
+    },
+    {
+      "type": "edit",
+      "id": "59285499ef067400",
+      "item": {
+        "type": "paragraph",
+        "id": "59285499ef067400",
+        "text": " "
+      },
+      "date": 1418836654031
+    },
+    {
+      "type": "remove",
+      "id": "06cad0f36e944312",
+      "date": 1418836654035
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c215c992b25c55d3",
+        "text": ""
+      },
+      "id": "c215c992b25c55d3",
+      "type": "add",
+      "after": "59285499ef067400",
+      "date": 1418836654039
+    },
+    {
+      "type": "edit",
+      "id": "c215c992b25c55d3",
+      "item": {
+        "type": "paragraph",
+        "id": "c215c992b25c55d3",
+        "text": "[[Chris Jobling]]"
+      },
+      "date": 1418836662567
     }
   ]
 }
