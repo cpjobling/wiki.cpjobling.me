@@ -1,0 +1,475 @@
+{
+  "title": "Chris Jobling",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ca5993e61d548acb",
+      "text": "Chris Jobling is a senior lecturer in the College of Engineering at Swansea University. He has interests in Computer-Aided Engineering, Software Engineering, Web Applications and Technology Enhanced Learning. "
+    },
+    {
+      "type": "html",
+      "id": "ee1c6d20fd911890",
+      "text": "<h3>Other Places</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "6b43ca837a22f78a",
+      "text": "You can find me at these other places on the social web."
+    },
+    {
+      "type": "paragraph",
+      "id": "e06f469da18a6c25",
+      "text": "Fresh and Crispy [http://blog.cpjobling.me blog]"
+    },
+    {
+      "type": "paragraph",
+      "id": "29e3ffef72e058c9",
+      "text": "@cpjobling [https://twitter.com/cpjobling twitter]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d9f2757e3bdaa39",
+      "text": "+ChrisJobling [https://plus.google.com/+ChrisJobling google+]"
+    },
+    {
+      "type": "paragraph",
+      "id": "25e48356d53d9526",
+      "text": "cpjobling [https://github.com/cpjobling GitHub]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fb1142ef7e05272a",
+      "text": "Journal [http://journal.wiki.cpjobling.me wiki]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Chris Jobling",
+        "story": []
+      },
+      "date": 1409252243620
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f8bb99ffc5403eb"
+      },
+      "id": "9f8bb99ffc5403eb",
+      "type": "add",
+      "date": 1409252252942
+    },
+    {
+      "type": "edit",
+      "id": "9f8bb99ffc5403eb",
+      "item": {
+        "type": "paragraph",
+        "id": "9f8bb99ffc5403eb",
+        "text": "https://plus.google.com/+ChrisJobling"
+      },
+      "date": 1409252283220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca5993e61d548acb"
+      },
+      "id": "ca5993e61d548acb",
+      "type": "add",
+      "after": "9f8bb99ffc5403eb",
+      "date": 1409252307162
+    },
+    {
+      "type": "edit",
+      "id": "ca5993e61d548acb",
+      "item": {
+        "type": "paragraph",
+        "id": "ca5993e61d548acb",
+        "text": "Chris Jobling is a senior lecturer in the College of Engineering at Swansea University. He has interests in Computer-Aided Engineering, Software Engineering, Web Applications and Technology Enhanced Learning. "
+      },
+      "date": 1409252335604
+    },
+    {
+      "type": "move",
+      "order": [
+        "ca5993e61d548acb",
+        "9f8bb99ffc5403eb"
+      ],
+      "id": "ca5993e61d548acb",
+      "date": 1409252337531
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee1c6d20fd911890"
+      },
+      "id": "ee1c6d20fd911890",
+      "type": "add",
+      "after": "9f8bb99ffc5403eb",
+      "date": 1409252339153
+    },
+    {
+      "type": "edit",
+      "id": "ee1c6d20fd911890",
+      "item": {
+        "type": "html",
+        "id": "ee1c6d20fd911890",
+        "text": "<h3>Other Places</h3>"
+      },
+      "date": 1409252350899
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29e3ffef72e058c9"
+      },
+      "id": "29e3ffef72e058c9",
+      "type": "add",
+      "after": "ee1c6d20fd911890",
+      "date": 1409252353574
+    },
+    {
+      "type": "edit",
+      "id": "29e3ffef72e058c9",
+      "item": {
+        "type": "paragraph",
+        "id": "29e3ffef72e058c9",
+        "text": "Twitter:"
+      },
+      "date": 1409252359323
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4d9f2757e3bdaa39",
+        "text": ""
+      },
+      "id": "4d9f2757e3bdaa39",
+      "type": "add",
+      "after": "29e3ffef72e058c9",
+      "date": 1409252359336
+    },
+    {
+      "type": "edit",
+      "id": "4d9f2757e3bdaa39",
+      "item": {
+        "type": "paragraph",
+        "id": "4d9f2757e3bdaa39",
+        "text": "Google+"
+      },
+      "date": 1409252366323
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e06f469da18a6c25",
+        "text": ""
+      },
+      "id": "e06f469da18a6c25",
+      "type": "add",
+      "after": "4d9f2757e3bdaa39",
+      "date": 1409252366337
+    },
+    {
+      "type": "edit",
+      "id": "e06f469da18a6c25",
+      "item": {
+        "type": "paragraph",
+        "id": "e06f469da18a6c25",
+        "text": "Blog:"
+      },
+      "date": 1409252372634
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "25e48356d53d9526",
+        "text": ""
+      },
+      "id": "25e48356d53d9526",
+      "type": "add",
+      "after": "e06f469da18a6c25",
+      "date": 1409252372646
+    },
+    {
+      "type": "edit",
+      "id": "25e48356d53d9526",
+      "item": {
+        "type": "paragraph",
+        "id": "25e48356d53d9526",
+        "text": "GitHub"
+      },
+      "date": 1409252377074
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "347ee78c51d262a2",
+        "text": ""
+      },
+      "id": "347ee78c51d262a2",
+      "type": "add",
+      "after": "25e48356d53d9526",
+      "date": 1409252377098
+    },
+    {
+      "type": "remove",
+      "id": "347ee78c51d262a2",
+      "date": 1409252379928
+    },
+    {
+      "type": "edit",
+      "id": "25e48356d53d9526",
+      "item": {
+        "type": "paragraph",
+        "id": "25e48356d53d9526",
+        "text": "GitHub: [https://github.com/cpjobling cpjobling]"
+      },
+      "date": 1409252399968
+    },
+    {
+      "type": "remove",
+      "id": "4aa46d8f47c9da7b",
+      "date": 1409252402629
+    },
+    {
+      "type": "edit",
+      "id": "29e3ffef72e058c9",
+      "item": {
+        "type": "paragraph",
+        "id": "29e3ffef72e058c9",
+        "text": "Twitter: [https://twitter.com/cpjobling @cpjobling]"
+      },
+      "date": 1409252438665
+    },
+    {
+      "type": "edit",
+      "id": "4d9f2757e3bdaa39",
+      "item": {
+        "type": "paragraph",
+        "id": "4d9f2757e3bdaa39",
+        "text": "Google+: "
+      },
+      "date": 1409252445658
+    },
+    {
+      "type": "edit",
+      "id": "4d9f2757e3bdaa39",
+      "item": {
+        "type": "paragraph",
+        "id": "4d9f2757e3bdaa39",
+        "text": "Google+: [https://plus.google.com/+ChrisJobling +ChrisJobling]"
+      },
+      "date": 1409252469018
+    },
+    {
+      "type": "edit",
+      "id": "e06f469da18a6c25",
+      "item": {
+        "type": "paragraph",
+        "id": "e06f469da18a6c25",
+        "text": "Blog: [http://blog.cpjobling.me Fresh and Crispy]"
+      },
+      "date": 1409252496848
+    },
+    {
+      "type": "move",
+      "order": [
+        "ca5993e61d548acb",
+        "9f8bb99ffc5403eb",
+        "ee1c6d20fd911890",
+        "e06f469da18a6c25",
+        "29e3ffef72e058c9",
+        "4d9f2757e3bdaa39",
+        "25e48356d53d9526"
+      ],
+      "id": "e06f469da18a6c25",
+      "date": 1409252501813
+    },
+    {
+      "type": "remove",
+      "id": "9f8bb99ffc5403eb",
+      "date": 1409252527830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b43ca837a22f78a"
+      },
+      "id": "6b43ca837a22f78a",
+      "type": "add",
+      "after": "25e48356d53d9526",
+      "date": 1409252537245
+    },
+    {
+      "type": "edit",
+      "id": "6b43ca837a22f78a",
+      "item": {
+        "type": "paragraph",
+        "id": "6b43ca837a22f78a",
+        "text": "You can find me at these other places on the social web."
+      },
+      "date": 1409252560307
+    },
+    {
+      "type": "move",
+      "order": [
+        "ca5993e61d548acb",
+        "ee1c6d20fd911890",
+        "6b43ca837a22f78a",
+        "e06f469da18a6c25",
+        "29e3ffef72e058c9",
+        "4d9f2757e3bdaa39",
+        "25e48356d53d9526"
+      ],
+      "id": "6b43ca837a22f78a",
+      "date": 1409252565011
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Pages]]"
+      },
+      "after": "ca5993e61d548acb",
+      "id": "05e2fa92643677ca",
+      "date": 1409254294017
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "id": "ee416d431ebf4fb4",
+      "date": 1409254306345
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1409254475795
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1409303372759
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "780a050749a22269",
+        "text": "log]"
+      },
+      "id": "780a050749a22269",
+      "type": "add",
+      "after": "e06f469da18a6c25",
+      "date": 1418826819654
+    },
+    {
+      "type": "remove",
+      "id": "780a050749a22269",
+      "date": 1418826820999
+    },
+    {
+      "type": "edit",
+      "id": "29e3ffef72e058c9",
+      "item": {
+        "type": "paragraph",
+        "id": "29e3ffef72e058c9",
+        "text": "@cpjobling [https://twitter.com/cpjobling Twitter]"
+      },
+      "date": 1418827007830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb1142ef7e05272a"
+      },
+      "id": "fb1142ef7e05272a",
+      "type": "add",
+      "after": "25e48356d53d9526",
+      "date": 1418827282865
+    },
+    {
+      "type": "edit",
+      "id": "fb1142ef7e05272a",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1142ef7e05272a",
+        "text": "Journal [[http://journal.wiki.cpjobling.me wiki]] "
+      },
+      "date": 1418827336180
+    },
+    {
+      "type": "edit",
+      "id": "fb1142ef7e05272a",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1142ef7e05272a",
+        "text": "Journal [http://journal.wiki.cpjobling.me wiki]"
+      },
+      "date": 1418827346210
+    },
+    {
+      "type": "fork",
+      "site": "cpjwiki.herokuapp.com",
+      "date": 1418828147082
+    },
+    {
+      "type": "edit",
+      "id": "e06f469da18a6c25",
+      "item": {
+        "type": "paragraph",
+        "id": "e06f469da18a6c25",
+        "text": "Fresh and Crispy [http://blog.cpjobling.me blog]"
+      },
+      "date": 1418828232805
+    },
+    {
+      "type": "edit",
+      "id": "29e3ffef72e058c9",
+      "item": {
+        "type": "paragraph",
+        "id": "29e3ffef72e058c9",
+        "text": "@cpjobling [https://twitter.com/cpjobling twitter]"
+      },
+      "date": 1418828242462
+    },
+    {
+      "type": "edit",
+      "id": "4d9f2757e3bdaa39",
+      "item": {
+        "type": "paragraph",
+        "id": "4d9f2757e3bdaa39",
+        "text": "+ChrisJobling [https://plus.google.com/+ChrisJobling google+]"
+      },
+      "date": 1418830774870
+    },
+    {
+      "type": "edit",
+      "id": "25e48356d53d9526",
+      "item": {
+        "type": "paragraph",
+        "id": "25e48356d53d9526",
+        "text": "cpjobling] [https://github.com/cpjobling GitHub]"
+      },
+      "date": 1418830803502
+    },
+    {
+      "type": "edit",
+      "id": "25e48356d53d9526",
+      "item": {
+        "type": "paragraph",
+        "id": "25e48356d53d9526",
+        "text": "cpjobling [https://github.com/cpjobling GitHub]"
+      },
+      "date": 1418830895736
+    }
+  ],
+  "slug": "chris-jobling",
+  "_id": "53ff7b93ce84ee0200000002"
+}

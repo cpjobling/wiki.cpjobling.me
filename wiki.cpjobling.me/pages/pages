@@ -1,0 +1,313 @@
+{
+  "title": "Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e9e02cbff262313a",
+      "text": "Sandbox [http://sandbox.wiki.cpjobling.me wiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "75b34c33e23b6f0b",
+      "text": "[[Installation notes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0fcd1083e7b41d1a",
+      "text": "[[Deploying a Wiki]] -- used to deploy this one!"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d665e1c577659d1",
+      "text": "[[The Hidden History of Online Learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6d4cd7861d54603",
+      "text": "[[Readings on Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "97b1b540c5def252",
+      "text": "[[Course Planning]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pages",
+        "story": []
+      },
+      "date": 1409252574642
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e9e02cbff262313a"
+      },
+      "id": "e9e02cbff262313a",
+      "type": "add",
+      "date": 1409252576564
+    },
+    {
+      "type": "edit",
+      "id": "e9e02cbff262313a",
+      "item": {
+        "type": "paragraph",
+        "id": "e9e02cbff262313a",
+        "text": "[[Sandbox]]"
+      },
+      "date": 1409252583768
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75b34c33e23b6f0b",
+        "text": ""
+      },
+      "id": "75b34c33e23b6f0b",
+      "type": "add",
+      "after": "e9e02cbff262313a",
+      "date": 1409252583779
+    },
+    {
+      "type": "edit",
+      "id": "75b34c33e23b6f0b",
+      "item": {
+        "type": "paragraph",
+        "id": "75b34c33e23b6f0b",
+        "text": "[[Installation notes]]"
+      },
+      "date": 1409252594205
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ba47ae12e454ebe6",
+        "text": ""
+      },
+      "id": "ba47ae12e454ebe6",
+      "type": "add",
+      "after": "75b34c33e23b6f0b",
+      "date": 1409252594214
+    },
+    {
+      "type": "remove",
+      "id": "ba47ae12e454ebe6",
+      "date": 1409252597592
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1aeea13e2d47617d",
+        "text": ""
+      },
+      "id": "1aeea13e2d47617d",
+      "type": "add",
+      "after": "75b34c33e23b6f0b",
+      "date": 1409252876578
+    },
+    {
+      "type": "remove",
+      "id": "1aeea13e2d47617d",
+      "date": 1409252880391
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8d665e1c577659d1",
+        "text": ""
+      },
+      "id": "8d665e1c577659d1",
+      "type": "add",
+      "after": "75b34c33e23b6f0b",
+      "date": 1409252881301
+    },
+    {
+      "type": "edit",
+      "id": "8d665e1c577659d1",
+      "item": {
+        "type": "paragraph",
+        "id": "8d665e1c577659d1",
+        "text": "[[The Hidden History of "
+      },
+      "date": 1409252889957
+    },
+    {
+      "type": "edit",
+      "id": "8d665e1c577659d1",
+      "item": {
+        "type": "paragraph",
+        "id": "8d665e1c577659d1",
+        "text": "[[The Hidden History of Online Learning]]"
+      },
+      "date": 1409252922865
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1a66a410cb2e2067",
+        "text": ""
+      },
+      "id": "1a66a410cb2e2067",
+      "type": "add",
+      "after": "8d665e1c577659d1",
+      "date": 1409252922876
+    },
+    {
+      "type": "remove",
+      "id": "1a66a410cb2e2067",
+      "date": 1409252928152
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb1fe4a569749325"
+      },
+      "id": "fb1fe4a569749325",
+      "type": "add",
+      "after": "8d665e1c577659d1",
+      "date": 1409254572907
+    },
+    {
+      "type": "edit",
+      "id": "fb1fe4a569749325",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1fe4a569749325",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1409254581161
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6d4cd7861d54603"
+      },
+      "id": "b6d4cd7861d54603",
+      "type": "add",
+      "after": "fb1fe4a569749325",
+      "date": 1409302106303
+    },
+    {
+      "type": "edit",
+      "id": "b6d4cd7861d54603",
+      "item": {
+        "type": "paragraph",
+        "id": "b6d4cd7861d54603",
+        "text": "[[Readings on Federated Wiki]]"
+      },
+      "date": 1409302134570
+    },
+    {
+      "type": "edit",
+      "id": "b6d4cd7861d54603",
+      "item": {
+        "type": "paragraph",
+        "id": "b6d4cd7861d54603",
+        "text": "[[Readings on Smallest Federated Wiki]]"
+      },
+      "date": 1409302434349
+    },
+    {
+      "type": "edit",
+      "id": "b6d4cd7861d54603",
+      "item": {
+        "type": "paragraph",
+        "id": "b6d4cd7861d54603",
+        "text": "[[Readings on Federated Wiki]]"
+      },
+      "date": 1409302481491
+    },
+    {
+      "type": "remove",
+      "id": "fb1fe4a569749325",
+      "date": 1409302781395
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97b1b540c5def252"
+      },
+      "id": "97b1b540c5def252",
+      "type": "add",
+      "after": "b6d4cd7861d54603",
+      "date": 1409306346995
+    },
+    {
+      "type": "edit",
+      "id": "97b1b540c5def252",
+      "item": {
+        "type": "paragraph",
+        "id": "97b1b540c5def252",
+        "text": "[[Course Planning]]"
+      },
+      "date": 1409306357512
+    },
+    {
+      "type": "edit",
+      "id": "e9e02cbff262313a",
+      "item": {
+        "type": "paragraph",
+        "id": "e9e02cbff262313a",
+        "text": "Sandbox [[http://sandbox.wiki.cpjobling.me wiki]]"
+      },
+      "date": 1418827953794
+    },
+    {
+      "type": "edit",
+      "id": "e9e02cbff262313a",
+      "item": {
+        "type": "paragraph",
+        "id": "e9e02cbff262313a",
+        "text": "Sandbox [http://sandbox.wiki.cpjobling.me wiki]"
+      },
+      "date": 1418827962811
+    },
+    {
+      "type": "fork",
+      "site": "cpjwiki.herokuapp.com",
+      "date": 1418830928058
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0fcd1083e7b41d1a",
+        "text": ""
+      },
+      "id": "0fcd1083e7b41d1a",
+      "type": "add",
+      "after": "75b34c33e23b6f0b",
+      "date": 1418831098695
+    },
+    {
+      "type": "edit",
+      "id": "0fcd1083e7b41d1a",
+      "item": {
+        "type": "paragraph",
+        "id": "0fcd1083e7b41d1a",
+        "text": "[[Deploying a Wiki]] -- used to deploy this one!"
+      },
+      "date": 1418831118928
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2da5c7082616a232",
+        "text": ""
+      },
+      "id": "2da5c7082616a232",
+      "type": "add",
+      "after": "0fcd1083e7b41d1a",
+      "date": 1418831118936
+    },
+    {
+      "type": "remove",
+      "id": "2da5c7082616a232",
+      "date": 1418831120055
+    }
+  ],
+  "slug": "pages",
+  "_id": "53ff7cdece84ee0200000003"
+}
