@@ -1,0 +1,166 @@
+{
+  "title": "Established new wiki farm",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7644a9bb335539e4",
+      "text": "Tuesday December 17"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f3ac02d98baa4b4",
+      "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers back in August 2014 ([https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/429#issuecomment-66884210 github issue #429]). "
+    },
+    {
+      "type": "paragraph",
+      "id": "9ca5cba20be1e02a",
+      "text": "The outcome of this was that I took on board Mike Caulfield's advice on [[Deploying a Wiki]] and this wiki, is now part of a Federated Wiki Farm (see [[Host a Site]]) running on [[digitalocean.com]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e68f2067b4a136fa",
+      "text": "The basic set-up and initial population of my [[Crispy Journal]] and Home [http://wiki.cpjobling.me wiki] has kept me happily -- and I hope gainfully -- employed today!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Established new wiki farm",
+        "story": []
+      },
+      "date": 1418837191091
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7644a9bb335539e4"
+      },
+      "id": "7644a9bb335539e4",
+      "type": "add",
+      "date": 1418837193280
+    },
+    {
+      "type": "edit",
+      "id": "7644a9bb335539e4",
+      "item": {
+        "type": "paragraph",
+        "id": "7644a9bb335539e4",
+        "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers "
+      },
+      "date": 1418837229457
+    },
+    {
+      "type": "edit",
+      "id": "7644a9bb335539e4",
+      "item": {
+        "type": "paragraph",
+        "id": "7644a9bb335539e4",
+        "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers back in August 2014 ["
+      },
+      "date": 1418837258732
+    },
+    {
+      "type": "edit",
+      "id": "7644a9bb335539e4",
+      "item": {
+        "type": "paragraph",
+        "id": "7644a9bb335539e4",
+        "text": "Tuesday December 17"
+      },
+      "date": 1418837463792
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f3ac02d98baa4b4",
+        "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers back in August 2014 [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/429#issuecomment-66884210 github issue #429]. The outcome of this was that I took on board Mike Caulfield's advice on [[Deploying a Wiki]] and this wiki, is now part of a [[Federated Wiki Farm]] running on [[digitalocean.com]]"
+      },
+      "id": "3f3ac02d98baa4b4",
+      "type": "add",
+      "after": "7644a9bb335539e4",
+      "date": 1418837463799
+    },
+    {
+      "type": "edit",
+      "id": "3f3ac02d98baa4b4",
+      "item": {
+        "type": "paragraph",
+        "id": "3f3ac02d98baa4b4",
+        "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers back in August 2014 [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/429#issuecomment-66884210 github issue #429]. The outcome of this was that I took on board Mike Caulfield's advice on [[Deploying a Wiki]] and this wiki, is now part of a Federated Wiki Farm (see [[Host a Site]]) running on [[digitalocean.com]]"
+      },
+      "date": 1418837667916
+    },
+    {
+      "type": "edit",
+      "id": "3f3ac02d98baa4b4",
+      "item": {
+        "type": "paragraph",
+        "id": "3f3ac02d98baa4b4",
+        "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers back in August 2014 ([https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/429#issuecomment-66884210 github issue #429]). The outcome of this was that I took on board Mike Caulfield's advice on [[Deploying a Wiki]] and this wiki, is now part of a Federated Wiki Farm (see [[Host a Site]]) running on [[digitalocean.com]]"
+      },
+      "date": 1418837706931
+    },
+    {
+      "type": "edit",
+      "id": "3f3ac02d98baa4b4",
+      "item": {
+        "type": "paragraph",
+        "id": "3f3ac02d98baa4b4",
+        "text": "Today I caught the conclusion of a GitHub issue that I raised with the federated wiki developers back in August 2014 ([https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/429#issuecomment-66884210 github issue #429]). "
+      },
+      "date": 1418837719407
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9ca5cba20be1e02a",
+        "text": "The outcome of this was that I took on board Mike Caulfield's advice on [[Deploying a Wiki]] and this wiki, is now part of a Federated Wiki Farm (see [[Host a Site]]) running on [[digitalocean.com]]"
+      },
+      "id": "9ca5cba20be1e02a",
+      "type": "add",
+      "after": "3f3ac02d98baa4b4",
+      "date": 1418837719414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e68f2067b4a136fa"
+      },
+      "id": "e68f2067b4a136fa",
+      "type": "add",
+      "after": "9ca5cba20be1e02a",
+      "date": 1418837724389
+    },
+    {
+      "type": "edit",
+      "id": "e68f2067b4a136fa",
+      "item": {
+        "type": "paragraph",
+        "id": "e68f2067b4a136fa",
+        "text": "The basic set-up and initial population of my wiki has kept me happily employed today!"
+      },
+      "date": 1418837754295
+    },
+    {
+      "type": "edit",
+      "id": "e68f2067b4a136fa",
+      "item": {
+        "type": "paragraph",
+        "id": "e68f2067b4a136fa",
+        "text": "The basic set-up and initial population of my [[Crispy Journal]] and Home [http://wiki.cpjobling.me wiki] has kept me happily employed today!"
+      },
+      "date": 1418837806554
+    },
+    {
+      "type": "edit",
+      "id": "e68f2067b4a136fa",
+      "item": {
+        "type": "paragraph",
+        "id": "e68f2067b4a136fa",
+        "text": "The basic set-up and initial population of my [[Crispy Journal]] and Home [http://wiki.cpjobling.me wiki] has kept me happily -- and I hope gainfully -- employed today!"
+      },
+      "date": 1418837827739
+    }
+  ]
+}

@@ -10,6 +10,16 @@
       "type": "paragraph",
       "id": "32bef2aab1652716",
       "text": "Some of my thoughts might turn into more reasoned items on my [http://wiki.cpjobling.me wiki]."
+    },
+    {
+      "type": "pagefold",
+      "id": "8746602bac3dcf1a",
+      "text": "December 2014"
+    },
+    {
+      "type": "paragraph",
+      "id": "b7130b41542a4377",
+      "text": "Wednesday 17th December -- [[Established new wiki farm]]"
     }
   ],
   "journal": [
@@ -132,6 +142,56 @@
       "type": "remove",
       "id": "7ce3f990d47276aa",
       "date": 1418836581308
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8746602bac3dcf1a"
+      },
+      "id": "8746602bac3dcf1a",
+      "type": "add",
+      "after": "32bef2aab1652716",
+      "date": 1418837129861
+    },
+    {
+      "type": "edit",
+      "id": "8746602bac3dcf1a",
+      "item": {
+        "type": "pagefold",
+        "id": "8746602bac3dcf1a",
+        "text": "December 2014"
+      },
+      "date": 1418837149859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7130b41542a4377"
+      },
+      "id": "b7130b41542a4377",
+      "type": "add",
+      "after": "8746602bac3dcf1a",
+      "date": 1418837168574
+    },
+    {
+      "type": "edit",
+      "id": "b7130b41542a4377",
+      "item": {
+        "type": "paragraph",
+        "id": "b7130b41542a4377",
+        "text": "[[Established new wiki farm]]"
+      },
+      "date": 1418837185544
+    },
+    {
+      "type": "edit",
+      "id": "b7130b41542a4377",
+      "item": {
+        "type": "paragraph",
+        "id": "b7130b41542a4377",
+        "text": "Wednesday 17th December -- [[Established new wiki farm]]"
+      },
+      "date": 1418837884374
     }
   ]
 }
