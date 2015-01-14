@@ -1,0 +1,690 @@
+{
+  "title": "Online Chats",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "4a81e77d844d95e1",
+      "text": "Tweet Chats"
+    },
+    {
+      "type": "paragraph",
+      "id": "3da8b02241e52f61",
+      "text": "Record of the nightly [https://twitter.com/BYOD4L @BYOD4L] tweet chats - see BYOD4Lchat [https://byod4learning.wordpress.com/topics/byod4lchat/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cdef3b1799959885",
+      "text": "Day 0 Introduction (Sunday 11th January 2015) - combined [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] and [https://twitter.com/search?q=%23txeduchat #txeduchat] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ee37459cf93a6a6",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "beb7e458c7943784",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "81178705b8b1e369",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b9c51d53b2d462d6",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "fe33a527129eecee",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "d81bd935da2a4f86",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "0dbbb29ffd6f3837",
+      "text": "Day 1 Connecting (Monday 12th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0f2c9b05f9cbd2f7",
+      "text": "Day 2 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sheila MacNeill ([https://twitter.com/sheilmcn @sheilmcn]), Sam Illingworth ([https://twitter.com/samillingworth @samillingworth]) and Mike Nicholson ([https://twitter.com/MikesCleverDog @MikesCleverDog])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicating storify]"
+    },
+    {
+      "type": "factory",
+      "id": "749defb647b88f39"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Online Chats",
+        "story": []
+      },
+      "date": 1421061201276
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "baac41b3ea7ba49d"
+      },
+      "id": "baac41b3ea7ba49d",
+      "type": "add",
+      "date": 1421061203396
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3da8b02241e52f61"
+      },
+      "id": "3da8b02241e52f61",
+      "type": "add",
+      "after": "baac41b3ea7ba49d",
+      "date": 1421061207549
+    },
+    {
+      "type": "remove",
+      "id": "baac41b3ea7ba49d",
+      "date": 1421061222240
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat and ]]"
+      },
+      "date": 1421061271963
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2ee37459cf93a6a6",
+        "text": ""
+      },
+      "id": "2ee37459cf93a6a6",
+      "type": "add",
+      "after": "3da8b02241e52f61",
+      "date": 1421061519878
+    },
+    {
+      "type": "edit",
+      "id": "2ee37459cf93a6a6",
+      "item": {
+        "type": "paragraph",
+        "id": "2ee37459cf93a6a6",
+        "text": " "
+      },
+      "date": 1421061520104
+    },
+    {
+      "type": "remove",
+      "id": "d81bd935da2a4f86",
+      "date": 1421061520111
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d81bd935da2a4f86",
+        "text": ""
+      },
+      "id": "d81bd935da2a4f86",
+      "type": "add",
+      "after": "2ee37459cf93a6a6",
+      "date": 1421061520114
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "beb7e458c7943784",
+        "text": ""
+      },
+      "id": "beb7e458c7943784",
+      "type": "add",
+      "after": "2ee37459cf93a6a6",
+      "date": 1421061520116
+    },
+    {
+      "type": "edit",
+      "id": "beb7e458c7943784",
+      "item": {
+        "type": "paragraph",
+        "id": "beb7e458c7943784",
+        "text": " "
+      },
+      "date": 1421061520256
+    },
+    {
+      "type": "remove",
+      "id": "fe33a527129eecee",
+      "date": 1421061520261
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fe33a527129eecee",
+        "text": ""
+      },
+      "id": "fe33a527129eecee",
+      "type": "add",
+      "after": "beb7e458c7943784",
+      "date": 1421061520264
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "81178705b8b1e369",
+        "text": ""
+      },
+      "id": "81178705b8b1e369",
+      "type": "add",
+      "after": "beb7e458c7943784",
+      "date": 1421061520268
+    },
+    {
+      "type": "edit",
+      "id": "81178705b8b1e369",
+      "item": {
+        "type": "paragraph",
+        "id": "81178705b8b1e369",
+        "text": " "
+      },
+      "date": 1421061520409
+    },
+    {
+      "type": "remove",
+      "id": "b9c51d53b2d462d6",
+      "date": 1421061520414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9c51d53b2d462d6",
+        "text": ""
+      },
+      "id": "b9c51d53b2d462d6",
+      "type": "add",
+      "after": "81178705b8b1e369",
+      "date": 1421061520417
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0bc6790f04fdf092",
+        "text": ""
+      },
+      "id": "0bc6790f04fdf092",
+      "type": "add",
+      "after": "81178705b8b1e369",
+      "date": 1421061520422
+    },
+    {
+      "type": "remove",
+      "id": "0bc6790f04fdf092",
+      "date": 1421061537178
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat and "
+      },
+      "date": 1421061575621
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat [[twitter]] and #txeduchat [[twitter]]"
+      },
+      "date": 1421061626098
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat [[twitter https://twitter.com/search?q=%23BYOD4Lchat]] and #txeduchat [[https://twitter.com/search?q=%23txeduchat]] - [[storify]]"
+      },
+      "date": 1421061748299
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat [[twitter https://twitter.com/search?q=%23BYOD4Lchat]] and #txeduchat [[https://twitter.com/search?q=%23txeduchat]] - [[https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]]"
+      },
+      "date": 1421061765491
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat [[https://twitter.com/search?q=%23BYOD4Lchat twitter]] and #txeduchat [[https://twitter.com/search?q=%23txeduchat twitter]] - [[https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]]"
+      },
+      "date": 1421061805480
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] and #txeduchat [https://twitter.com/search?q=%23txeduchat twitter] - [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421061883356
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction - combined #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] and #txeduchat [https://twitter.com/search?q=%23txeduchat twitter] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421061921258
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Introduction (Sunday 11th January 2015) - combined #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] and #txeduchat [https://twitter.com/search?q=%23txeduchat twitter] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421061952704
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Record of the nightly BYOD4L chats (how to [html])"
+      },
+      "date": 1421062030788
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cdef3b1799959885",
+        "text": "twitter chats Introduction (Sunday 11th January 2015) - combined #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] and #txeduchat [https://twitter.com/search?q=%23txeduchat twitter] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "id": "cdef3b1799959885",
+      "type": "add",
+      "after": "3da8b02241e52f61",
+      "date": 1421062030829
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Record of the nightly BYOD4L twitter chats (how to [html])"
+      },
+      "date": 1421062040947
+    },
+    {
+      "type": "edit",
+      "id": "cdef3b1799959885",
+      "item": {
+        "type": "paragraph",
+        "id": "cdef3b1799959885",
+        "text": "Introduction (Sunday 11th January 2015) - combined #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] and #txeduchat [https://twitter.com/search?q=%23txeduchat twitter] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421062047309
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Record of the nightly BYOD4L twitter chats (BYOD4Lchat - see [https://byod4learning.wordpress.com/topics/byod4lchat/ html])"
+      },
+      "date": 1421062283245
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Record of the nightly BYOD4L tweet chats (BYOD4Lchat - see [https://byod4learning.wordpress.com/topics/byod4lchat/ html])"
+      },
+      "date": 1421062292082
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0dbbb29ffd6f3837"
+      },
+      "id": "0dbbb29ffd6f3837",
+      "type": "add",
+      "after": "d81bd935da2a4f86",
+      "date": 1421139998843
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Communicating (Monday 12th January 2015) - #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] moderated by ... and ... - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421140068402
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Communicating (Monday 12th January 2015) - #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] moderated by ... and ... - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421140106342
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Communicating (Monday 12th January 2015) - #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] led by https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by. - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421140137981
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Communicating (Monday 12th January 2015) - #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] led by Sue Beckinham [https://twitter.com/suebecks @suebecks] and Dalian Terry [https://twitter.com/Dal_T @Dal_T]  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421140262581
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7862e7b3cba5b2f8"
+      },
+      "id": "7862e7b3cba5b2f8",
+      "type": "add",
+      "after": "0dbbb29ffd6f3837",
+      "date": 1421150350060
+    },
+    {
+      "type": "edit",
+      "id": "7862e7b3cba5b2f8",
+      "item": {
+        "type": "pagefold",
+        "id": "7862e7b3cba5b2f8",
+        "text": "Hangouts"
+      },
+      "date": 1421150358038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a81e77d844d95e1"
+      },
+      "id": "4a81e77d844d95e1",
+      "type": "add",
+      "after": "7862e7b3cba5b2f8",
+      "date": 1421150361247
+    },
+    {
+      "type": "edit",
+      "id": "4a81e77d844d95e1",
+      "item": {
+        "type": "pagefold",
+        "id": "4a81e77d844d95e1",
+        "text": "Tweet Chats"
+      },
+      "date": 1421150380786
+    },
+    {
+      "type": "move",
+      "order": [
+        "4a81e77d844d95e1",
+        "3da8b02241e52f61",
+        "cdef3b1799959885",
+        "2ee37459cf93a6a6",
+        "beb7e458c7943784",
+        "81178705b8b1e369",
+        "b9c51d53b2d462d6",
+        "fe33a527129eecee",
+        "d81bd935da2a4f86",
+        "0dbbb29ffd6f3837",
+        "7862e7b3cba5b2f8"
+      ],
+      "id": "4a81e77d844d95e1",
+      "date": 1421150385151
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Record of the nightly [https://twitter.com/BYOD4L @BYOD4L] tweet chats ( - see BYOD4Lchat [https://byod4learning.wordpress.com/topics/byod4lchat/ html] and [https://twitter.com/ #BYOD4Lchat])"
+      },
+      "date": 1421150490184
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Communicating (Monday 12th January 2015) - #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421150508053
+    },
+    {
+      "type": "edit",
+      "id": "3da8b02241e52f61",
+      "item": {
+        "type": "paragraph",
+        "id": "3da8b02241e52f61",
+        "text": "Record of the nightly [https://twitter.com/BYOD4L @BYOD4L] tweet chats - see BYOD4Lchat [https://byod4learning.wordpress.com/topics/byod4lchat/ html]"
+      },
+      "date": 1421150527725
+    },
+    {
+      "type": "edit",
+      "id": "cdef3b1799959885",
+      "item": {
+        "type": "paragraph",
+        "id": "cdef3b1799959885",
+        "text": "Day 0 Introduction (Sunday 11th January 2015) - combined #BYOD4Lchat [https://twitter.com/search?q=%23BYOD4Lchat twitter] and #txeduchat [https://twitter.com/search?q=%23txeduchat twitter] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421150555921
+    },
+    {
+      "type": "edit",
+      "id": "cdef3b1799959885",
+      "item": {
+        "type": "paragraph",
+        "id": "cdef3b1799959885",
+        "text": "Day 0 Introduction (Sunday 11th January 2015) - combined [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] and [https://twitter.com/search?q=%23txeduchat #txeduchat] - curated with [https://storify.com/BYOD4L/combined-byod4lchat-and-txeduchat-intro-to-byod4l storify]"
+      },
+      "date": 1421150599170
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Communicating (Monday 12th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421150618853
+    },
+    {
+      "type": "fork",
+      "site": "byod4l.wiki.cpjobling.me",
+      "date": 1421222270868
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8540ce809c954dba"
+      },
+      "id": "8540ce809c954dba",
+      "type": "add",
+      "after": "7862e7b3cba5b2f8",
+      "site": "byod4l.wiki.cpjobling.me",
+      "date": 1421222270867
+    },
+    {
+      "type": "edit",
+      "id": "0dbbb29ffd6f3837",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbbb29ffd6f3837",
+        "text": "Day 1 Connecting (Monday 12th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421222274099
+    },
+    {
+      "type": "edit",
+      "id": "8540ce809c954dba",
+      "item": {
+        "type": "paragraph",
+        "id": "8540ce809c954dba",
+        "text": "Day 2 Communicating (Monday 12th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421222287414
+    },
+    {
+      "type": "edit",
+      "id": "7862e7b3cba5b2f8",
+      "item": {
+        "type": "pagefold",
+        "id": "7862e7b3cba5b2f8",
+        "text": "Day 1 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421222317615
+    },
+    {
+      "type": "edit",
+      "id": "7862e7b3cba5b2f8",
+      "item": {
+        "type": "pagefold",
+        "id": "7862e7b3cba5b2f8",
+        "text": "Day 1 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicating storify]"
+      },
+      "date": 1421222336773
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "749defb647b88f39"
+      },
+      "id": "749defb647b88f39",
+      "type": "add",
+      "after": "8540ce809c954dba",
+      "date": 1421222345293
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f2c9b05f9cbd2f7",
+        "text": ""
+      },
+      "id": "0f2c9b05f9cbd2f7",
+      "type": "add",
+      "after": "0dbbb29ffd6f3837",
+      "date": 1421222354152
+    },
+    {
+      "type": "edit",
+      "id": "0f2c9b05f9cbd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2c9b05f9cbd2f7",
+        "text": "https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicating"
+      },
+      "date": 1421222359088
+    },
+    {
+      "type": "edit",
+      "id": "0f2c9b05f9cbd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2c9b05f9cbd2f7",
+        "text": "Day 2 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [Day 1 Connecting (Monday 12th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify storify]"
+      },
+      "date": 1421222394169
+    },
+    {
+      "type": "remove",
+      "id": "7862e7b3cba5b2f8",
+      "date": 1421222404420
+    },
+    {
+      "type": "remove",
+      "id": "8540ce809c954dba",
+      "date": 1421222416529
+    },
+    {
+      "type": "edit",
+      "id": "0f2c9b05f9cbd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2c9b05f9cbd2f7",
+        "text": "Day 2 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sue Beckinham ([https://twitter.com/suebecks @suebecks]) and Dalian Terry ([https://twitter.com/Dal_T @Dal_T])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicate-by storify]"
+      },
+      "date": 1421222512231,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1421222830943
+    },
+    {
+      "type": "edit",
+      "id": "0f2c9b05f9cbd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2c9b05f9cbd2f7",
+        "text": "Day 2 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sheila MacNeill ([https://twitter.com/sheilamcn @sheilamcn]), Sam Illingworth ([https://twitter.com/samillingworth @samillingworth]) and Mike Nicholson ([https://twitter.com/MikesCleverDog @MikesCleverDog])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicating storify]"
+      },
+      "date": 1421223049246
+    },
+    {
+      "type": "edit",
+      "id": "0f2c9b05f9cbd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2c9b05f9cbd2f7",
+        "text": "Day 2 Communicating (Tuesday 13th January 2015) - [https://twitter.com/search?q=%23BYOD4Lchat #BYOD4Lchat] led by Sheila MacNeill ([https://twitter.com/sheilmcn @sheilmcn]), Sam Illingworth ([https://twitter.com/samillingworth @samillingworth]) and Mike Nicholson ([https://twitter.com/MikesCleverDog @MikesCleverDog])  - curated with [https://storify.com/BYOD4L/bring-your-own-devices-for-learning-communicating storify]"
+      },
+      "date": 1421223090906
+    }
+  ]
+}

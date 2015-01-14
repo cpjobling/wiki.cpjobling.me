@@ -1,0 +1,237 @@
+{
+  "title": "Points for discussion",
+  "story": [
+    {
+      "type": "factory",
+      "id": "b5015547ceba4388"
+    },
+    {
+      "type": "paragraph",
+      "id": "b366b1b5a67e4a17",
+      "text": "[[iOS, Android, Windows or Shouldn't Care]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2947bce2eddca0f5",
+      "text": "[[Native Apps versus Web Apps]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a23bf960c0289bd5",
+      "text": "[[Convincing students]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d31dc193a36b5d81",
+      "text": "[[Convincing teachers]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e7b34bd6f99ce4c",
+      "text": "[[The Power of Serendipity]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Points for discussion",
+        "story": []
+      },
+      "date": 1421064150881
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5015547ceba4388"
+      },
+      "id": "b5015547ceba4388",
+      "type": "add",
+      "date": 1421064154969
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b366b1b5a67e4a17",
+        "text": ""
+      },
+      "id": "b366b1b5a67e4a17",
+      "type": "add",
+      "after": "b5015547ceba4388",
+      "date": 1421064172105
+    },
+    {
+      "type": "edit",
+      "id": "b366b1b5a67e4a17",
+      "item": {
+        "type": "paragraph",
+        "id": "b366b1b5a67e4a17",
+        "text": "[[iOS, Android, WIndows or Don't Care]]"
+      },
+      "date": 1421064223962
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2947bce2eddca0f5",
+        "text": ""
+      },
+      "id": "2947bce2eddca0f5",
+      "type": "add",
+      "after": "b366b1b5a67e4a17",
+      "date": 1421064224085
+    },
+    {
+      "type": "edit",
+      "id": "2947bce2eddca0f5",
+      "item": {
+        "type": "paragraph",
+        "id": "2947bce2eddca0f5",
+        "text": "[[Native Apps versus Web Apps]]"
+      },
+      "date": 1421064251246
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2757a020191c82a1",
+        "text": ""
+      },
+      "id": "2757a020191c82a1",
+      "type": "add",
+      "after": "2947bce2eddca0f5",
+      "date": 1421064251362
+    },
+    {
+      "type": "remove",
+      "id": "2757a020191c82a1",
+      "date": 1421064265599
+    },
+    {
+      "type": "edit",
+      "id": "b366b1b5a67e4a17",
+      "item": {
+        "type": "paragraph",
+        "id": "b366b1b5a67e4a17",
+        "text": "[[iOS, Android, Windows or Don't Care]]"
+      },
+      "date": 1421064270900
+    },
+    {
+      "type": "edit",
+      "id": "b366b1b5a67e4a17",
+      "item": {
+        "type": "paragraph",
+        "id": "b366b1b5a67e4a17",
+        "text": "[[iOS, Android, Windows or Shouldn't Care]]"
+      },
+      "date": 1421064289732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a23bf960c0289bd5"
+      },
+      "id": "a23bf960c0289bd5",
+      "type": "add",
+      "after": "2947bce2eddca0f5",
+      "date": 1421064293479
+    },
+    {
+      "type": "edit",
+      "id": "a23bf960c0289bd5",
+      "item": {
+        "type": "paragraph",
+        "id": "a23bf960c0289bd5",
+        "text": "[["
+      },
+      "date": 1421064321414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef2fe2eea432df8c",
+        "text": "The reluctant student]]"
+      },
+      "id": "ef2fe2eea432df8c",
+      "type": "add",
+      "after": "a23bf960c0289bd5",
+      "date": 1421064321534
+    },
+    {
+      "type": "remove",
+      "id": "ef2fe2eea432df8c",
+      "date": 1421064322007
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d31dc193a36b5d81"
+      },
+      "id": "d31dc193a36b5d81",
+      "type": "add",
+      "after": "a23bf960c0289bd5",
+      "date": 1421064328855
+    },
+    {
+      "type": "edit",
+      "id": "d31dc193a36b5d81",
+      "item": {
+        "type": "paragraph",
+        "id": "d31dc193a36b5d81",
+        "text": "[[The reluctant teacher]]"
+      },
+      "date": 1421064341555
+    },
+    {
+      "type": "edit",
+      "id": "a23bf960c0289bd5",
+      "item": {
+        "type": "paragraph",
+        "id": "a23bf960c0289bd5",
+        "text": "[[Convincing students]]"
+      },
+      "date": 1421064363873
+    },
+    {
+      "type": "edit",
+      "id": "d31dc193a36b5d81",
+      "item": {
+        "type": "paragraph",
+        "id": "d31dc193a36b5d81",
+        "text": "[[Convincing teachers]]"
+      },
+      "date": 1421064375756
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e7b34bd6f99ce4c"
+      },
+      "id": "0e7b34bd6f99ce4c",
+      "type": "add",
+      "after": "d31dc193a36b5d81",
+      "date": 1421083720416
+    },
+    {
+      "type": "edit",
+      "id": "0e7b34bd6f99ce4c",
+      "item": {
+        "type": "paragraph",
+        "id": "0e7b34bd6f99ce4c",
+        "text": "The Power of Serendipity"
+      },
+      "date": 1421083733019
+    },
+    {
+      "type": "edit",
+      "id": "0e7b34bd6f99ce4c",
+      "item": {
+        "type": "paragraph",
+        "id": "0e7b34bd6f99ce4c",
+        "text": "[[The Power of Serendipity]]"
+      },
+      "date": 1421083742263
+    }
+  ]
+}

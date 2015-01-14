@@ -1,0 +1,317 @@
+{
+  "title": "The Power of Serendipity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "eaba9238a17102a8",
+      "text": "Tweet:"
+    },
+    {
+      "type": "html",
+      "id": "eb7b29d2c3bc2dca",
+      "text": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p>On <a href=\"https://twitter.com/hashtag/BYOD4L?src=hash\">#BYOD4L</a> &quot;connecting&quot;: worth mentioning the power of serendipity -- e.g. ASL via <a href=\"https://twitter.com/C4LPT\">@C4LPT</a> <a href=\"http://t.co/tBFCcYYxwr\">http://t.co/tBFCcYYxwr</a> (from 2009 but still valid)</p>&mdash; Chris Jobling (@cpjobling) <a href=\"https://twitter.com/cpjobling/status/554691363451580416\">January 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+    },
+    {
+      "type": "paragraph",
+      "id": "32502bf8f1d5bd8b",
+      "text": "[https://www.google.co.uk/search?q=serendopidy&oq=serendopidy&aqs=chrome..69i57j0l5.5527j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#safe=off&q=serendipity+social+networks+teaching+learning Google Search]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3aa3843d5a4e3570",
+      "text": "Definitions: [http://dictionary.reference.com/browse/serendipity dictionary.com] [http://en.wikipedia.org/wiki/Serendipity wikipedia]"
+    },
+    {
+      "type": "pagefold",
+      "id": "59da0ea0f9c2e90c",
+      "text": "Links"
+    },
+    {
+      "type": "paragraph",
+      "id": "de0dee43057d4cf1",
+      "text": "Jane Hart (@C4LPT [https://twitter.com/C4PLT twitter]), Examples of Use of Social Media by Technology and Types of Learning (2009) [http://c4lpt.co.uk/resources/social-learning-handbook/examples-of-use-of-social-media-and-learning-by-technology-and-types-of-learning/ html]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Power of Serendipity",
+        "story": []
+      },
+      "date": 1421083747769
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "32502bf8f1d5bd8b"
+      },
+      "id": "32502bf8f1d5bd8b",
+      "type": "add",
+      "date": 1421083752149
+    },
+    {
+      "type": "edit",
+      "id": "32502bf8f1d5bd8b",
+      "item": {
+        "type": "paragraph",
+        "id": "32502bf8f1d5bd8b",
+        "text": "Links: [[Google Search]]"
+      },
+      "date": 1421083779806
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": ""
+      },
+      "id": "3aa3843d5a4e3570",
+      "type": "add",
+      "after": "32502bf8f1d5bd8b",
+      "date": 1421083803683
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Jane Hart (@C4Examples of Use of Social Media by Technology and Types of Learning (2009) [http://c4lpt.co.uk/resources/social-learning-handbook/examples-of-use-of-social-media-and-learning-by-technology-and-types-of-learning/ htm[]"
+      },
+      "date": 1421083879350
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Jane Hart (@C4PLExamples of Use of Social Media by Technology and Types of Learning (2009) [http://c4lpt.co.uk/resources/social-learning-handbook/examples-of-use-of-social-media-and-learning-by-technology-and-types-of-learning/ htm[]"
+      },
+      "date": 1421083896877
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Jane Hart (@C4LPT [https://twitter.com/C4PLT twitter]) Examples of Use of Social Media by Technology and Types of Learning (2009) [http://c4lpt.co.uk/resources/social-learning-handbook/examples-of-use-of-social-media-and-learning-by-technology-and-types-of-learning/ html]"
+      },
+      "date": 1421083960442
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Jane Hart (@C4LPT [https://twitter.com/C4PLT twitter]), Examples of Use of Social Media by Technology and Types of Learning (2009) [http://c4lpt.co.uk/resources/social-learning-handbook/examples-of-use-of-social-media-and-learning-by-technology-and-types-of-learning/ html]"
+      },
+      "date": 1421083972440
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Definition: "
+      },
+      "date": 1421083987424
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "de0dee43057d4cf1",
+        "text": "Jane Hart (@C4LPT [https://twitter.com/C4PLT twitter]), Examples of Use of Social Media by Technology and Types of Learning (2009) [http://c4lpt.co.uk/resources/social-learning-handbook/examples-of-use-of-social-media-and-learning-by-technology-and-types-of-learning/ html]"
+      },
+      "id": "de0dee43057d4cf1",
+      "type": "add",
+      "after": "3aa3843d5a4e3570",
+      "date": 1421083987484
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Definition: [dictionary.com] [wikipedia]"
+      },
+      "date": 1421084010120
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eaba9238a17102a8"
+      },
+      "id": "eaba9238a17102a8",
+      "type": "add",
+      "after": "de0dee43057d4cf1",
+      "date": 1421084013929
+    },
+    {
+      "type": "edit",
+      "id": "eaba9238a17102a8",
+      "item": {
+        "type": "paragraph",
+        "id": "eaba9238a17102a8",
+        "text": "Tweet:"
+      },
+      "date": 1421084019805
+    },
+    {
+      "type": "edit",
+      "id": "32502bf8f1d5bd8b",
+      "item": {
+        "type": "paragraph",
+        "id": "32502bf8f1d5bd8b",
+        "text": "Links: [[https://www.google.co.uk/search?q=serendopidy&oq=serendopidy&aqs=chrome..69i57j0l5.5527j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#safe=off&q=serendipity+social+networks+teaching+learning Google Search]]"
+      },
+      "date": 1421084060090
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59da0ea0f9c2e90c"
+      },
+      "id": "59da0ea0f9c2e90c",
+      "type": "add",
+      "after": "eaba9238a17102a8",
+      "date": 1421084068212
+    },
+    {
+      "type": "edit",
+      "id": "59da0ea0f9c2e90c",
+      "item": {
+        "type": "pagefold",
+        "id": "59da0ea0f9c2e90c",
+        "text": "Links"
+      },
+      "date": 1421084077136
+    },
+    {
+      "type": "move",
+      "order": [
+        "59da0ea0f9c2e90c",
+        "32502bf8f1d5bd8b",
+        "3aa3843d5a4e3570",
+        "de0dee43057d4cf1",
+        "eaba9238a17102a8"
+      ],
+      "id": "59da0ea0f9c2e90c",
+      "date": 1421084081695
+    },
+    {
+      "type": "edit",
+      "id": "32502bf8f1d5bd8b",
+      "item": {
+        "type": "paragraph",
+        "id": "32502bf8f1d5bd8b",
+        "text": "[https://www.google.co.uk/search?q=serendopidy&oq=serendopidy&aqs=chrome..69i57j0l5.5527j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#safe=off&q=serendipity+social+networks+teaching+learning Google Search]"
+      },
+      "date": 1421084092740
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Definition: [http://dictionary.reference.com/browse/serendipity dictionary.com] [wikipedia]"
+      },
+      "date": 1421084119265
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Definition: [http://dictionary.reference.com/browse/serendipity dictionary.com] [http://en.wikipedia.org/wiki/Serendipity wikipedia]"
+      },
+      "date": 1421084136741
+    },
+    {
+      "type": "edit",
+      "id": "3aa3843d5a4e3570",
+      "item": {
+        "type": "paragraph",
+        "id": "3aa3843d5a4e3570",
+        "text": "Definitions: [http://dictionary.reference.com/browse/serendipity dictionary.com] [http://en.wikipedia.org/wiki/Serendipity wikipedia]"
+      },
+      "date": 1421084144654
+    },
+    {
+      "type": "move",
+      "order": [
+        "32502bf8f1d5bd8b",
+        "59da0ea0f9c2e90c",
+        "3aa3843d5a4e3570",
+        "de0dee43057d4cf1",
+        "eaba9238a17102a8"
+      ],
+      "id": "59da0ea0f9c2e90c",
+      "date": 1421084163971
+    },
+    {
+      "type": "move",
+      "order": [
+        "32502bf8f1d5bd8b",
+        "3aa3843d5a4e3570",
+        "59da0ea0f9c2e90c",
+        "de0dee43057d4cf1",
+        "eaba9238a17102a8"
+      ],
+      "id": "59da0ea0f9c2e90c",
+      "date": 1421084167121
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaba9238a17102a8",
+        "32502bf8f1d5bd8b",
+        "3aa3843d5a4e3570",
+        "59da0ea0f9c2e90c",
+        "de0dee43057d4cf1"
+      ],
+      "id": "eaba9238a17102a8",
+      "date": 1421084173356
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb7b29d2c3bc2dca"
+      },
+      "id": "eb7b29d2c3bc2dca",
+      "type": "add",
+      "after": "de0dee43057d4cf1",
+      "date": 1421084222821
+    },
+    {
+      "type": "edit",
+      "id": "eb7b29d2c3bc2dca",
+      "item": {
+        "type": "html",
+        "id": "eb7b29d2c3bc2dca",
+        "text": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p>On <a href=\"https://twitter.com/hashtag/BYOD4L?src=hash\">#BYOD4L</a> &quot;connecting&quot;: worth mentioning the power of serendipity -- e.g. ASL via <a href=\"https://twitter.com/C4LPT\">@C4LPT</a> <a href=\"http://t.co/tBFCcYYxwr\">http://t.co/tBFCcYYxwr</a> (from 2009 but still valid)</p>&mdash; Chris Jobling (@cpjobling) <a href=\"https://twitter.com/cpjobling/status/554691363451580416\">January 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "date": 1421084226885
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaba9238a17102a8",
+        "eb7b29d2c3bc2dca",
+        "32502bf8f1d5bd8b",
+        "3aa3843d5a4e3570",
+        "59da0ea0f9c2e90c",
+        "de0dee43057d4cf1"
+      ],
+      "id": "eb7b29d2c3bc2dca",
+      "date": 1421084233457
+    }
+  ]
+}

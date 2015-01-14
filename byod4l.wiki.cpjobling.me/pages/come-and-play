@@ -1,0 +1,160 @@
+{
+  "title": "Come and Play",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f237bf6dfd658148",
+      "text": "Insider tip. If you enter a URL with address http://yoursite.wiki.cpjobling.me you can create a new wiki on this federated wiki. Obviously if this feature is abused I will need to close this feature down. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8a64f7f5b05552db",
+      "text": "Better yet, install your own instance of SFW  ... it's not difficult [https://www.npmjs.com/package/wiki html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d0c8a0d2a7acb657",
+      "text": "I'm not the only convert to SFW, see Mike Caulfield's site [http://hapgood.us html] and YouTube channel [https://www.youtube.com/channel/UCQ0dKDgVskAtKU4lN3cAHxg YouTube] for more inspiration. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Come and Play",
+        "story": []
+      },
+      "date": 1421079774135
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f237bf6dfd658148"
+      },
+      "id": "f237bf6dfd658148",
+      "type": "add",
+      "date": 1421079775997
+    },
+    {
+      "type": "edit",
+      "id": "f237bf6dfd658148",
+      "item": {
+        "type": "paragraph",
+        "id": "f237bf6dfd658148",
+        "text": "Insider tip. If you goto your http://<i>site</i>.wiki.cpjobling.me you can create a new wiki on this federated wiki. Obviously if this feature is abused I may need to close this feature down. "
+      },
+      "date": 1421079893773
+    },
+    {
+      "type": "edit",
+      "id": "f237bf6dfd658148",
+      "item": {
+        "type": "paragraph",
+        "id": "f237bf6dfd658148",
+        "text": "Insider tip. If you goto your http://site.wiki.cpjobling.me you can create a new wiki on this federated wiki. Obviously if this feature is abused I may need to close this feature down. "
+      },
+      "date": 1421079910925
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d0c8a0d2a7acb657",
+        "text": ""
+      },
+      "id": "d0c8a0d2a7acb657",
+      "type": "add",
+      "after": "f237bf6dfd658148",
+      "date": 1421079952999
+    },
+    {
+      "type": "edit",
+      "id": "d0c8a0d2a7acb657",
+      "item": {
+        "type": "paragraph",
+        "id": "d0c8a0d2a7acb657",
+        "text": "See "
+      },
+      "date": 1421079955825
+    },
+    {
+      "type": "edit",
+      "id": "d0c8a0d2a7acb657",
+      "item": {
+        "type": "paragraph",
+        "id": "d0c8a0d2a7acb657",
+        "text": "I'm not the only convert "
+      },
+      "date": 1421080007689
+    },
+    {
+      "type": "edit",
+      "id": "d0c8a0d2a7acb657",
+      "item": {
+        "type": "paragraph",
+        "id": "d0c8a0d2a7acb657",
+        "text": "I'm not the only convert to SFW, see Mike Caulfield's site [http://hapgood.us html] and YouTube channel [YouTube] for more inspiration. "
+      },
+      "date": 1421080097861
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a64f7f5b05552db"
+      },
+      "id": "8a64f7f5b05552db",
+      "type": "add",
+      "after": "d0c8a0d2a7acb657",
+      "date": 1421080103258
+    },
+    {
+      "type": "edit",
+      "id": "8a64f7f5b05552db",
+      "item": {
+        "type": "paragraph",
+        "id": "8a64f7f5b05552db",
+        "text": "Better yet, install your own instance of SFW  ... it's not difficult [html]"
+      },
+      "date": 1421080158758
+    },
+    {
+      "type": "edit",
+      "id": "f237bf6dfd658148",
+      "item": {
+        "type": "paragraph",
+        "id": "f237bf6dfd658148",
+        "text": "Insider tip. If you enter a URL with address http://yoursite.wiki.cpjobling.me you can create a new wiki on this federated wiki. Obviously if this feature is abused I will need to close this feature down. "
+      },
+      "date": 1421080254391
+    },
+    {
+      "type": "move",
+      "order": [
+        "f237bf6dfd658148",
+        "8a64f7f5b05552db",
+        "d0c8a0d2a7acb657"
+      ],
+      "id": "8a64f7f5b05552db",
+      "date": 1421080256685
+    },
+    {
+      "type": "edit",
+      "id": "d0c8a0d2a7acb657",
+      "item": {
+        "type": "paragraph",
+        "id": "d0c8a0d2a7acb657",
+        "text": "I'm not the only convert to SFW, see Mike Caulfield's site [http://hapgood.us html] and YouTube channel [https://www.youtube.com/channel/UCQ0dKDgVskAtKU4lN3cAHxg YouTube] for more inspiration. "
+      },
+      "date": 1421080319154
+    },
+    {
+      "type": "edit",
+      "id": "8a64f7f5b05552db",
+      "item": {
+        "type": "paragraph",
+        "id": "8a64f7f5b05552db",
+        "text": "Better yet, install your own instance of SFW  ... it's not difficult [https://www.npmjs.com/package/wiki html]"
+      },
+      "date": 1421080420491
+    }
+  ]
+}

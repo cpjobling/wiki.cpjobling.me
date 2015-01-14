@@ -1,0 +1,259 @@
+{
+  "title": "What happens when I click a link?",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "92c897ff4a33930f",
+      "text": "Nice explanation of the actions that happen when a web browser follows a link. Explained by Dr Richard Mortier of the University of Nottingham on the ComputerPhile channel on [https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA YouTube]"
+    },
+    {
+      "type": "video",
+      "id": "0e1b9758525408f9",
+      "text": "<iframe width=\"420\" height=\"207\" src=\"//www.youtube.com/embed/keo0dglCj7I\" frameborder=\"0\" allowfullscreen></iframe>\n\nWhat happens when I click a link?"
+    },
+    {
+      "type": "paragraph",
+      "id": "8beec86ca2957dd9",
+      "text": "When I added this video using these instructions [[Add Videos]] I found a possible bug [https://github.com/fedwiki/wiki-plugin-video/issues/6 GitHub issue]."
+    },
+    {
+      "type": "paragraph",
+      "id": "44c4a25c2fa91a09",
+      "text": "To overcome the problems I initially had with this page, I had to manually edit the JSON file that backs this page."
+    },
+    {
+      "type": "paragraph",
+      "id": "1b1a637d247f2944",
+      "text": "Note to self: YouTube embed code has height=\"640\" width=\"315\": I changed this to width=\"420\" for which the proportional height setting should be height=\"207\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "8689780a8bb28cb7",
+      "text": " "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "What happens when I click a link?",
+        "story": []
+      },
+      "date": 1418897753649
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a0f742b4e18e4c66"
+      },
+      "id": "a0f742b4e18e4c66",
+      "type": "add",
+      "date": 1418897758305
+    },
+    {
+      "type": "edit",
+      "id": "a0f742b4e18e4c66",
+      "item": {
+        "type": "video",
+        "id": "a0f742b4e18e4c66",
+        "text": "http://journal.wiki.cpjobling.me/view/welcome-visitors/view/recent-changes/view/crispy-journal"
+      },
+      "date": 1418897765448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e1b9758525408f9"
+      },
+      "id": "0e1b9758525408f9",
+      "type": "add",
+      "after": "a0f742b4e18e4c66",
+      "date": 1418897775916
+    },
+    {
+      "type": "edit",
+      "id": "0e1b9758525408f9",
+      "item": {
+        "type": "video",
+        "id": "0e1b9758525408f9",
+        "text": "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/keo0dglCj7I\" frameborder=\"0\" allowfullscreen></iframe>\n\nWhat happens when I click a link?"
+      },
+      "date": 1418897789523
+    },
+    {
+      "type": "fork",
+      "site": "journal.wiki.cpjobling.me",
+      "date": 1418909322102
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8beec86ca2957dd9"
+      },
+      "id": "8beec86ca2957dd9",
+      "type": "add",
+      "after": "0e1b9758525408f9",
+      "site": "journal.wiki.cpjobling.me",
+      "date": 1418909322099
+    },
+    {
+      "type": "edit",
+      "id": "8beec86ca2957dd9",
+      "item": {
+        "type": "paragraph",
+        "id": "8beec86ca2957dd9",
+        "text": "When I added this video using these instructions [[Add Videos]] I found a possible bug ["
+      },
+      "date": 1418909374364
+    },
+    {
+      "type": "edit",
+      "id": "8beec86ca2957dd9",
+      "item": {
+        "type": "paragraph",
+        "id": "8beec86ca2957dd9",
+        "text": "When I added this video using these instructions [[Add Videos]] I found a possible bug [https://github.com/fedwiki/wiki-plugin-video/issues/6 GitHub issue]."
+      },
+      "date": 1418909428850
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "44c4a25c2fa91a09",
+        "text": ""
+      },
+      "id": "44c4a25c2fa91a09",
+      "type": "add",
+      "after": "8beec86ca2957dd9",
+      "date": 1418909428857
+    },
+    {
+      "type": "edit",
+      "id": "44c4a25c2fa91a09",
+      "item": {
+        "type": "paragraph",
+        "id": "44c4a25c2fa91a09",
+        "text": "To overcome the problems I initially had with this page, I had to manually edit the JSON file that backs this page."
+      },
+      "date": 1418909511343
+    },
+    {
+      "type": "fork",
+      "date": 1418909571242
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b1a637d247f2944"
+      },
+      "id": "1b1a637d247f2944",
+      "type": "add",
+      "after": "44c4a25c2fa91a09",
+      "date": 1418909593578
+    },
+    {
+      "type": "edit",
+      "id": "1b1a637d247f2944",
+      "item": {
+        "type": "paragraph",
+        "id": "1b1a637d247f2944",
+        "text": "Note to self: YouTube embed code has height=\"640\" width=\"315\": I changed this to width=\"420\" for which the proportional height is  "
+      },
+      "date": 1418909681654
+    },
+    {
+      "type": "edit",
+      "id": "1b1a637d247f2944",
+      "item": {
+        "type": "paragraph",
+        "id": "1b1a637d247f2944",
+        "text": "Note to self: YouTube embed code has height=\"640\" width=\"315\": I changed this to width=\"420\" for which the proportional height setting should be height=\"207\"."
+      },
+      "date": 1418909714036
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8689780a8bb28cb7",
+        "text": " "
+      },
+      "id": "8689780a8bb28cb7",
+      "type": "add",
+      "after": "1b1a637d247f2944",
+      "date": 1418909714044
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92c897ff4a33930f"
+      },
+      "id": "92c897ff4a33930f",
+      "type": "add",
+      "after": "8689780a8bb28cb7",
+      "date": 1418909820195
+    },
+    {
+      "type": "edit",
+      "id": "92c897ff4a33930f",
+      "item": {
+        "type": "paragraph",
+        "id": "92c897ff4a33930f",
+        "text": "Nice explanation of the actions that happen when a web browser follows a link. From "
+      },
+      "date": 1418909876096
+    },
+    {
+      "type": "edit",
+      "id": "92c897ff4a33930f",
+      "item": {
+        "type": "paragraph",
+        "id": "92c897ff4a33930f",
+        "text": "Nice explanation of the actions that happen when a web browser follows a link. From Dr Richard Mortier of the University of Nottingham. Part of the ComputerPhile series on [YouTube]"
+      },
+      "date": 1418909951339
+    },
+    {
+      "type": "edit",
+      "id": "92c897ff4a33930f",
+      "item": {
+        "type": "paragraph",
+        "id": "92c897ff4a33930f",
+        "text": "Nice explanation of the actions that happen when a web browser follows a link. From Dr Richard Mortier of the University of Nottingham. From the ComputerPhile channel on [https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA YouTube Channel]"
+      },
+      "date": 1418910007741
+    },
+    {
+      "type": "move",
+      "order": [
+        "92c897ff4a33930f",
+        "0e1b9758525408f9",
+        "8beec86ca2957dd9",
+        "44c4a25c2fa91a09",
+        "1b1a637d247f2944",
+        "8689780a8bb28cb7"
+      ],
+      "id": "92c897ff4a33930f",
+      "date": 1418910015270
+    },
+    {
+      "type": "edit",
+      "id": "92c897ff4a33930f",
+      "item": {
+        "type": "paragraph",
+        "id": "92c897ff4a33930f",
+        "text": "Nice explanation of the actions that happen when a web browser follows a link. Explained by Dr Richard Mortier of the University of Nottingham on the ComputerPhile channel on [https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA YouTube Channel]"
+      },
+      "date": 1418910035207
+    },
+    {
+      "type": "edit",
+      "id": "92c897ff4a33930f",
+      "item": {
+        "type": "paragraph",
+        "id": "92c897ff4a33930f",
+        "text": "Nice explanation of the actions that happen when a web browser follows a link. Explained by Dr Richard Mortier of the University of Nottingham on the ComputerPhile channel on [https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA YouTube]"
+      },
+      "date": 1418910048595
+    }
+  ]
+}

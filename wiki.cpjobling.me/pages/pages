@@ -8,11 +8,6 @@
     },
     {
       "type": "paragraph",
-      "id": "75b34c33e23b6f0b",
-      "text": "[[Installation notes]]"
-    },
-    {
-      "type": "paragraph",
       "id": "0fcd1083e7b41d1a",
       "text": "[[Deploying a Wiki]] -- used to deploy this one!"
     },
@@ -30,6 +25,11 @@
       "type": "paragraph",
       "id": "97b1b540c5def252",
       "text": "[[Course Planning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d12bf42cafbce6ea",
+      "text": "Crispy Journal [http://journal.wiki.cpjobling.me wiki]"
     }
   ],
   "journal": [
@@ -306,6 +306,41 @@
       "type": "remove",
       "id": "2da5c7082616a232",
       "date": 1418831120055
+    },
+    {
+      "type": "fork",
+      "site": "wiki.cpjobling.me",
+      "date": 1418910116361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d12bf42cafbce6ea"
+      },
+      "id": "d12bf42cafbce6ea",
+      "type": "add",
+      "after": "97b1b540c5def252",
+      "site": "wiki.cpjobling.me",
+      "date": 1418910116354
+    },
+    {
+      "type": "fork",
+      "date": 1418910355823
+    },
+    {
+      "type": "remove",
+      "id": "75b34c33e23b6f0b",
+      "date": 1418915613326
+    },
+    {
+      "type": "edit",
+      "id": "d12bf42cafbce6ea",
+      "item": {
+        "type": "paragraph",
+        "id": "d12bf42cafbce6ea",
+        "text": "Crispy Journal [http://journal.wiki.cpjobling.me wiki]"
+      },
+      "date": 1418915756806
     }
   ],
   "slug": "pages",

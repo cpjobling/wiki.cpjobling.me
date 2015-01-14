@@ -1,0 +1,716 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "[[Chris Jobling]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "This is where I will post and reflect about my experiences with the 3rd iteration of Bring Your Own Device for Learning (#BYODL [https://byod4learning.wordpress.com/ WordPress])"
+    },
+    {
+      "type": "paragraph",
+      "id": "94d401ac2970b6c6",
+      "text": "[[Points for discussion]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b026b93157b7b6ba",
+      "text": "[[Day 1: Connecting]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "039a0fa32e4a63f6",
+      "text": "[[Day 2: Communicating]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3dffba7c011c2cd5",
+      "text": "[[Day 3: Curating]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4deb06b0334398a7",
+      "text": "[[Online Chats]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e9485d0146a211d2",
+      "text": "[[Curated Links and Resources]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "factory",
+      "id": "4bcabdf962ed57c9"
+    },
+    {
+      "type": "factory",
+      "id": "cb642654e09a49e8"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "7b56f22a30118509",
+      "date": 1309114800000,
+      "item": {
+        "title": "Welcome Visitors"
+      }
+    },
+    {
+      "id": "7b56f22a4b9ee974",
+      "type": "edit",
+      "date": 1309114800000,
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]]. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1344306124590
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Create a page about yourself. Start by making a link to that page right here. Double-click the gray box below. That opens an editor. Type your name enclosed in double square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1344306133455
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1344306138935
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Create a page about things you do on this wiki. Double-click the gray box below. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1344306143742
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca"
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1344306148580
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "<b>Three:</b> Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1344306151782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Start writing. Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
+      },
+      "after": "0cbb4ef5f5d7e472",
+      "id": "ee416d431ebf4fb4",
+      "date": 1344306168918
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> A page about myself."
+      },
+      "date": 1361751371185
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Pages about what we do here."
+      },
+      "date": 1361751496155
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Pages about us."
+      },
+      "date": 1361751512280
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751649467
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this introductory page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751711554
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Pages where we do and share."
+      },
+      "date": 1361751811972
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751965824
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "date": 1361752195146
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "date": 1361752202873
+    },
+    {
+      "type": "edit",
+      "id": "0cbb4ef5f5d7e472",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "date": 1361752223856
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
+      },
+      "date": 1361752251367
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752421212
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces."
+      },
+      "date": 1361752436556
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "78a8278db93c6ed2",
+        "text": "Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
+      },
+      "id": "78a8278db93c6ed2",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1361752437061
+    },
+    {
+      "type": "edit",
+      "id": "78a8278db93c6ed2",
+      "item": {
+        "type": "paragraph",
+        "id": "78a8278db93c6ed2",
+        "text": "Read [[How to Wiki]] for more ideas."
+      },
+      "date": 1361752441155
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67a126ec849b55ed",
+        "text": "Discover [[Recent Changes]] here and nearby."
+      },
+      "id": "67a126ec849b55ed",
+      "type": "add",
+      "after": "78a8278db93c6ed2",
+      "date": 1361752441668
+    },
+    {
+      "type": "remove",
+      "id": "78a8278db93c6ed2",
+      "date": 1361752452012
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas."
+      },
+      "date": 1361752459193
+    },
+    {
+      "type": "remove",
+      "id": "67a126ec849b55ed",
+      "date": 1361752461793
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752483992
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752498310
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1376164176294
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418521420269
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "This is where I will post and reflect about my experinces with the 3rd iteration of Bring Your Own Device for Learning (#BYODL [http://"
+      },
+      "date": 1421052552870
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1421052608710
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "This is where I will post and reflect about my experiences with the 3rd iteration of Bring Your Own Device for Learning (#BYODL [http://https://byod4learning.wordpress.com/ WordPress])"
+      },
+      "date": 1421052625584
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b026b93157b7b6ba",
+        "text": ""
+      },
+      "id": "b026b93157b7b6ba",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1421052642597
+    },
+    {
+      "type": "edit",
+      "id": "b026b93157b7b6ba",
+      "item": {
+        "type": "paragraph",
+        "id": "b026b93157b7b6ba",
+        "text": "Day 1: Connecting"
+      },
+      "date": 1421052651947
+    },
+    {
+      "type": "edit",
+      "id": "b026b93157b7b6ba",
+      "item": {
+        "type": "paragraph",
+        "id": "b026b93157b7b6ba",
+        "text": "[[Day 1: Connecting]]"
+      },
+      "date": 1421052669507
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Chris Jobling]]"
+      },
+      "date": 1421052729675
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4deb06b0334398a7"
+      },
+      "id": "4deb06b0334398a7",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1421061125250
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8ee30c4a9408814e",
+        "text": "Online Chats]]"
+      },
+      "id": "8ee30c4a9408814e",
+      "type": "add",
+      "after": "4deb06b0334398a7",
+      "date": 1421061155119
+    },
+    {
+      "type": "remove",
+      "id": "8ee30c4a9408814e",
+      "date": 1421061156728
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94d401ac2970b6c6"
+      },
+      "id": "94d401ac2970b6c6",
+      "type": "add",
+      "after": "4deb06b0334398a7",
+      "date": 1421061170956
+    },
+    {
+      "type": "edit",
+      "id": "4deb06b0334398a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4deb06b0334398a7",
+        "text": "[[Online Chats]]"
+      },
+      "date": 1421061188936
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "b026b93157b7b6ba",
+        "4deb06b0334398a7",
+        "ee416d431ebf4fb4",
+        "94d401ac2970b6c6"
+      ],
+      "id": "4deb06b0334398a7",
+      "date": 1421061194145
+    },
+    {
+      "type": "edit",
+      "id": "94d401ac2970b6c6",
+      "item": {
+        "type": "paragraph",
+        "id": "94d401ac2970b6c6",
+        "text": "[[Points for discussion]]"
+      },
+      "date": 1421064141012
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "94d401ac2970b6c6",
+        "b026b93157b7b6ba",
+        "4deb06b0334398a7",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "94d401ac2970b6c6",
+      "date": 1421064147538
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e9485d0146a211d2"
+      },
+      "id": "e9485d0146a211d2",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1421064395196
+    },
+    {
+      "type": "edit",
+      "id": "e9485d0146a211d2",
+      "item": {
+        "type": "paragraph",
+        "id": "e9485d0146a211d2",
+        "text": "[[Curated Links]]"
+      },
+      "date": 1421064409505
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "94d401ac2970b6c6",
+        "b026b93157b7b6ba",
+        "4deb06b0334398a7",
+        "e9485d0146a211d2",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "e9485d0146a211d2",
+      "date": 1421064413328
+    },
+    {
+      "type": "edit",
+      "id": "e9485d0146a211d2",
+      "item": {
+        "type": "paragraph",
+        "id": "e9485d0146a211d2",
+        "text": "[[Curated Links and Resources]]"
+      },
+      "date": 1421064429639
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1421079648056
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f25a0d344791228",
+        "text": ""
+      },
+      "id": "1f25a0d344791228",
+      "type": "add",
+      "after": "e9485d0146a211d2",
+      "date": 1421079758380
+    },
+    {
+      "type": "edit",
+      "id": "1f25a0d344791228",
+      "item": {
+        "type": "paragraph",
+        "id": "1f25a0d344791228",
+        "text": "Come and Play"
+      },
+      "date": 1421079762553
+    },
+    {
+      "type": "edit",
+      "id": "1f25a0d344791228",
+      "item": {
+        "type": "paragraph",
+        "id": "1f25a0d344791228",
+        "text": "[[Come and Play]]"
+      },
+      "date": 1421079768214
+    },
+    {
+      "type": "fork",
+      "site": "byod4l.wiki.cpjobling.me",
+      "date": 1421080448214
+    },
+    {
+      "type": "remove",
+      "id": "1f25a0d344791228",
+      "site": "byod4l.wiki.cpjobling.me",
+      "date": 1421080448212
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "039a0fa32e4a63f6"
+      },
+      "id": "039a0fa32e4a63f6",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1421080525052
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4bcabdf962ed57c9"
+      },
+      "id": "4bcabdf962ed57c9",
+      "type": "add",
+      "after": "039a0fa32e4a63f6",
+      "date": 1421080529472
+    },
+    {
+      "type": "fork",
+      "date": 1421080532960
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "This is where I will post and reflect about my experiences with the 3rd iteration of Bring Your Own Device for Learning (#BYODL [https://byod4learning.wordpress.com/ WordPress])"
+      },
+      "date": 1421087316911
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb642654e09a49e8"
+      },
+      "id": "cb642654e09a49e8",
+      "type": "add",
+      "after": "4bcabdf962ed57c9",
+      "date": 1421139954117
+    },
+    {
+      "type": "edit",
+      "id": "039a0fa32e4a63f6",
+      "item": {
+        "type": "paragraph",
+        "id": "039a0fa32e4a63f6",
+        "text": "[[Day 2: Communicating]]"
+      },
+      "date": 1421139972507
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "05e2fa92643677ca",
+        "94d401ac2970b6c6",
+        "b026b93157b7b6ba",
+        "039a0fa32e4a63f6",
+        "4deb06b0334398a7",
+        "e9485d0146a211d2",
+        "ee416d431ebf4fb4",
+        "4bcabdf962ed57c9",
+        "cb642654e09a49e8"
+      ],
+      "id": "039a0fa32e4a63f6",
+      "date": 1421139975599
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3dffba7c011c2cd5",
+        "text": ""
+      },
+      "id": "3dffba7c011c2cd5",
+      "type": "add",
+      "after": "039a0fa32e4a63f6",
+      "date": 1421223137489
+    },
+    {
+      "type": "edit",
+      "id": "3dffba7c011c2cd5",
+      "item": {
+        "type": "paragraph",
+        "id": "3dffba7c011c2cd5",
+        "text": "[[Day 3: Curating]]"
+      },
+      "date": 1421223151364
+    }
+  ]
+}

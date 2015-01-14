@@ -80,6 +80,16 @@
       "type": "paragraph",
       "id": "8db50f3fcab05565",
       "text": "The reason this needs its own machine is because it greedily takes port 80 (the main port for web services), and updates the machine's global node version/installs node. FedWiki can be run on most machines along side other applications, but doing so is out of scope for this install script."
+    },
+    {
+      "type": "html",
+      "id": "8300cfe14de615b9",
+      "text": "<h3>Deploying the Development Code from GitHub</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "fa953e2bc2207c6d",
+      "text": "Probably not recommended for production sites but useful if you want to be on the bleeding edge and/or contribute code and fixes back to the project."
     }
   ],
   "journal": [
@@ -704,6 +714,56 @@
       "type": "fork",
       "site": "asia.wiki.org",
       "date": 1418831084250
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8300cfe14de615b9"
+      },
+      "id": "8300cfe14de615b9",
+      "type": "add",
+      "after": "8db50f3fcab05565",
+      "date": 1418917257775
+    },
+    {
+      "type": "edit",
+      "id": "8300cfe14de615b9",
+      "item": {
+        "type": "html",
+        "id": "8300cfe14de615b9",
+        "text": "<h3>Deploying from GitHub</h3>"
+      },
+      "date": 1418917286406
+    },
+    {
+      "type": "edit",
+      "id": "8300cfe14de615b9",
+      "item": {
+        "type": "html",
+        "id": "8300cfe14de615b9",
+        "text": "<h3>Deploying the Development Code from GitHub</h3>"
+      },
+      "date": 1418917315030
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa953e2bc2207c6d"
+      },
+      "id": "fa953e2bc2207c6d",
+      "type": "add",
+      "after": "8300cfe14de615b9",
+      "date": 1418917331309
+    },
+    {
+      "type": "edit",
+      "id": "fa953e2bc2207c6d",
+      "item": {
+        "type": "paragraph",
+        "id": "fa953e2bc2207c6d",
+        "text": "Probably not recommended for production sites but useful if you want to be on the bleeding edge and/or contribute code and fixes back to the project."
+      },
+      "date": 1418917374569
     }
   ]
 }

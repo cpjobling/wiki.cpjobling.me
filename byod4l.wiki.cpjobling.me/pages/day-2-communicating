@@ -1,0 +1,250 @@
+{
+  "title": "Day 2: Communicating",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8b97681c94c07589",
+      "text": "Topic page [https://byod4learning.wordpress.com/topics/2-communicating/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5bad30e1f379776c",
+      "text": "The two scenarios are both pretty straightforward - the (mature) student feels isolated by constraints on his time but nonetheless feels that he'd benefit from some collaboration with his peers, the teacher feels isolated and would like to be part of a [[community of practice]]."
+    },
+    {
+      "type": "markdown",
+      "id": "30ec494ba91b2436",
+      "text": "The activities, as usual with BYOD4L are quite challenging: \n\n* We are asked to visualise and share our how we communicate in our personal and private life\n* We are asked to create a response to either the student or staff scenario in a different medium from one we've used before and\n* We're asked to reflect on how we might resolve a communication issue -- is there an app for that?"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0b2dfd9447944f2",
+      "text": "A thought that occurs to me is that I as a teacher want my students to communicate and learn together but I find it a challenge to work that way myself."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Day 2: Communicating",
+        "story": []
+      },
+      "date": 1421152072345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5bad30e1f379776c"
+      },
+      "id": "5bad30e1f379776c",
+      "type": "add",
+      "date": 1421152074879
+    },
+    {
+      "type": "edit",
+      "id": "5bad30e1f379776c",
+      "item": {
+        "type": "paragraph",
+        "id": "5bad30e1f379776c",
+        "text": "The two scenarios are both pretty straightforward - the (mature) student feels isolated by constraints on his time but nonetheless feels that he'd benefit from some collaboration with his peers, the teacher feels isolated and would like to be part of a [community of practice]."
+      },
+      "date": 1421152243516
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a6e7b7ae39736c8",
+        "text": ""
+      },
+      "id": "4a6e7b7ae39736c8",
+      "type": "add",
+      "after": "5bad30e1f379776c",
+      "date": 1421152243560
+    },
+    {
+      "type": "edit",
+      "id": "4a6e7b7ae39736c8",
+      "item": {
+        "type": "paragraph",
+        "id": "4a6e7b7ae39736c8",
+        "text": "The activities, as usual with BYOD4L are quite challenging. We are asked to visualise and share our communication"
+      },
+      "date": 1421152293858
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8b97681c94c07589"
+      },
+      "id": "8b97681c94c07589",
+      "type": "add",
+      "after": "4a6e7b7ae39736c8",
+      "date": 1421152328046
+    },
+    {
+      "type": "edit",
+      "id": "8b97681c94c07589",
+      "item": {
+        "type": "paragraph",
+        "id": "8b97681c94c07589",
+        "text": "Activities page [html]"
+      },
+      "date": 1421152345288
+    },
+    {
+      "type": "edit",
+      "id": "8b97681c94c07589",
+      "item": {
+        "type": "paragraph",
+        "id": "8b97681c94c07589",
+        "text": "Topic page [https://byod4learning.wordpress.com/topics/2-communicating/ html]"
+      },
+      "date": 1421152363853
+    },
+    {
+      "type": "move",
+      "order": [
+        "8b97681c94c07589",
+        "5bad30e1f379776c",
+        "4a6e7b7ae39736c8"
+      ],
+      "id": "8b97681c94c07589",
+      "date": 1421152369703
+    },
+    {
+      "type": "edit",
+      "id": "5bad30e1f379776c",
+      "item": {
+        "type": "paragraph",
+        "id": "5bad30e1f379776c",
+        "text": "The two scenarios are both pretty straightforward - the (mature) student feels isolated by constraints on his time but nonetheless feels that he'd benefit from some collaboration with his peers, the teacher feels isolated and would like to be part of a [[community of practice]]."
+      },
+      "date": 1421152431361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30ec494ba91b2436"
+      },
+      "id": "30ec494ba91b2436",
+      "type": "add",
+      "after": "4a6e7b7ae39736c8",
+      "date": 1421152499306
+    },
+    {
+      "type": "remove",
+      "id": "4a6e7b7ae39736c8",
+      "date": 1421152501818
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging. \n1. We are asked to visualise and share our how we communicate in our personal and private life\n2. "
+      },
+      "date": 1421152515659
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging. \n\n1. We are asked to visualise and share our how we communicate in our personal and private life\n2. We are asked to "
+      },
+      "date": 1421152530623
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging. \n\n* We are asked to visualise and share our how we communicate in our personal and private life\n* We are asked to create a response to the either the student or staff scenario in a different medium from one we've used before and\n* "
+      },
+      "date": 1421152592927
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging. \n\n* We are asked to visualise and share our how we communicate in our personal and private life\n* We are asked to create a response to the either the student or staff scenario in a different medium from one we've used before and\n* We're asked to reflect on how we might use communication "
+      },
+      "date": 1421152619647
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging. \n\n* We are asked to visualise and share our how we communicate in our personal and private life\n* We are asked to create a response to the either the student or staff scenario in a different medium from one we've used before and\n* We're asked to reflect on how we might resolve a communication issue -- is there an app for that?"
+      },
+      "date": 1421152653860
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging: \n\n* We are asked to visualise and share our how we communicate in our personal and private life\n* We are asked to create a response to the either the student or staff scenario in a different medium from one we've used before and\n* We're asked to reflect on how we might resolve a communication issue -- is there an app for that?"
+      },
+      "date": 1421152666301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0b2dfd9447944f2"
+      },
+      "id": "e0b2dfd9447944f2",
+      "type": "add",
+      "after": "30ec494ba91b2436",
+      "date": 1421152671512
+    },
+    {
+      "type": "edit",
+      "id": "e0b2dfd9447944f2",
+      "item": {
+        "type": "paragraph",
+        "id": "e0b2dfd9447944f2",
+        "text": "A thought that occurs to me is that I as a teacher want my students to communicate and learn together but I find it a challenge to work that was myself."
+      },
+      "date": 1421152749512
+    },
+    {
+      "type": "edit",
+      "id": "e0b2dfd9447944f2",
+      "item": {
+        "type": "paragraph",
+        "id": "e0b2dfd9447944f2",
+        "text": "A thought that occurs to me is that I as a teacher want my students to communicate and learn together but I find it a challenge to work that way was myself."
+      },
+      "date": 1421152788860
+    },
+    {
+      "type": "edit",
+      "id": "e0b2dfd9447944f2",
+      "item": {
+        "type": "paragraph",
+        "id": "e0b2dfd9447944f2",
+        "text": "A thought that occurs to me is that I as a teacher want my students to communicate and learn together but I find it a challenge to work that way myself."
+      },
+      "date": 1421152798452
+    },
+    {
+      "type": "edit",
+      "id": "30ec494ba91b2436",
+      "item": {
+        "type": "markdown",
+        "id": "30ec494ba91b2436",
+        "text": "The activities, as usual with BYOD4L are quite challenging: \n\n* We are asked to visualise and share our how we communicate in our personal and private life\n* We are asked to create a response to either the student or staff scenario in a different medium from one we've used before and\n* We're asked to reflect on how we might resolve a communication issue -- is there an app for that?"
+      },
+      "date": 1421152818203
+    }
+  ]
+}

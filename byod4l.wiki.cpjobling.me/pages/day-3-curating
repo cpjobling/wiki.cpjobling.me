@@ -1,0 +1,369 @@
+{
+  "title": "Day 3: Curating",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2249d9afbe834ede",
+      "text": "Topic page [https://byod4learning.wordpress.com/topics/3-curating/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4b92eca1e772bd70",
+      "text": "I currently have two methods of curating content, one is automatic and the other is manual. "
+    },
+    {
+      "type": "pagefold",
+      "id": "8bc7c823308e29bd",
+      "text": "Automatic Curation"
+    },
+    {
+      "type": "paragraph",
+      "id": "65052f44db452d70",
+      "text": "The automatic method uses two tools [[ifttt]] for the selection of resources to be curated (in this case [[favourited tweets]]) and [[Evernote]] for the archive."
+    },
+    {
+      "type": "paragraph",
+      "id": "76fd19aada330267",
+      "text": "In addition to [[Twitter]], [[ifttt]] has a rich set of interfaces to other web services, so this automated method of curation could be adapted for many other scenarios, for example see the collection of recipes that use [[Evernote]] as an end-point."
+    },
+    {
+      "type": "paragraph",
+      "id": "13f64a014b8b910d",
+      "text": "An advantage of this method is that once set up, [[itttt]] works unattended, and twitter favouriting works across all devices and third-party services that use [[Twitter APIs]]. This means that however I browse the web, if my client has a \"favourite in twitter feature, I automatically get my resources curated in [[Evernote]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "e5f222be93c1ef0f",
+      "text": "I use the same method to ..."
+    },
+    {
+      "type": "pagefold",
+      "id": "09a669a30d1b6adf",
+      "text": "Manual curation"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Day 3: Curating",
+        "story": []
+      },
+      "date": 1421223494629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2249d9afbe834ede"
+      },
+      "id": "2249d9afbe834ede",
+      "type": "add",
+      "date": 1421223496685
+    },
+    {
+      "type": "edit",
+      "id": "2249d9afbe834ede",
+      "item": {
+        "type": "paragraph",
+        "id": "2249d9afbe834ede",
+        "text": "Topic page: [http://www.polleverywhere.com/"
+      },
+      "date": 1421223517811
+    },
+    {
+      "type": "edit",
+      "id": "2249d9afbe834ede",
+      "item": {
+        "type": "paragraph",
+        "id": "2249d9afbe834ede",
+        "text": "Topic page: [https://byod4learning.wordpress.com/topics/3-curating/ html]"
+      },
+      "date": 1421223567400
+    },
+    {
+      "type": "edit",
+      "id": "2249d9afbe834ede",
+      "item": {
+        "type": "paragraph",
+        "id": "2249d9afbe834ede",
+        "text": "Topic page [https://byod4learning.wordpress.com/topics/3-curating/ html]"
+      },
+      "date": 1421223582019
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4b92eca1e772bd70",
+        "text": ""
+      },
+      "id": "4b92eca1e772bd70",
+      "type": "add",
+      "after": "2249d9afbe834ede",
+      "date": 1421223785450
+    },
+    {
+      "type": "edit",
+      "id": "4b92eca1e772bd70",
+      "item": {
+        "type": "paragraph",
+        "id": "4b92eca1e772bd70",
+        "text": "I currently have two methods of curating content, one is automatic and the other is manual. The automatic method uses two tools evernote for the archive and ifttt for the selection of resources to be curated (in this case favourited tweets) and is based on twitter favourites. It could be expanded to work with other tools, such as for example feedly, diigo, , evernote and "
+      },
+      "date": 1421224078026
+    },
+    {
+      "type": "edit",
+      "id": "8ad07fe91158db2a",
+      "item": {
+        "type": "paragraph",
+        "id": "8ad07fe91158db2a",
+        "text": "My only problem is that I'm a pack rat and find that I don't have time to review the collected items."
+      },
+      "date": 1421224112016
+    },
+    {
+      "type": "edit",
+      "id": "4b92eca1e772bd70",
+      "item": {
+        "type": "paragraph",
+        "id": "4b92eca1e772bd70",
+        "text": "I currently have two methods of curating content, one is automatic and the other is manual. The automatic method uses two tools [[Evernote]] for the archive and [[ifttt]] for the selection of resources to be curated (in this case favourited tweets). "
+      },
+      "date": 1421224140513
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "76fd19aada330267",
+        "text": "It could be expanded to work with other tools, such as for example feedly, diigo, , evernote and "
+      },
+      "id": "76fd19aada330267",
+      "type": "add",
+      "after": "4b92eca1e772bd70",
+      "date": 1421224140570
+    },
+    {
+      "type": "edit",
+      "id": "76fd19aada330267",
+      "item": {
+        "type": "paragraph",
+        "id": "76fd19aada330267",
+        "text": "[[ifttt]] has a rich set of collections so this method could be adapted for many other scenarios, for example see the collection of recipes that use [[Evernote]] as an end-point."
+      },
+      "date": 1421224202570
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "07177bff63ae0d61",
+        "text": " could be expanded to work with other tools, such as for example feedly, diigo, , evernote and "
+      },
+      "id": "07177bff63ae0d61",
+      "type": "add",
+      "after": "76fd19aada330267",
+      "date": 1421224202622
+    },
+    {
+      "type": "remove",
+      "id": "07177bff63ae0d61",
+      "date": 1421224208048
+    },
+    {
+      "type": "edit",
+      "id": "4b92eca1e772bd70",
+      "item": {
+        "type": "paragraph",
+        "id": "4b92eca1e772bd70",
+        "text": "I currently have two methods of curating content, one is automatic and the other is manual. The automatic method uses two tools [[Evernote]] for the archive and [[ifttt]] for the selection of resources to be curated (in this case [[favourited tweets]]). "
+      },
+      "date": 1421224225576
+    },
+    {
+      "type": "edit",
+      "id": "4b92eca1e772bd70",
+      "item": {
+        "type": "paragraph",
+        "id": "4b92eca1e772bd70",
+        "text": "I currently have two methods of curating content, one is automatic and the other is manual. "
+      },
+      "date": 1421224233922
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "65052f44db452d70",
+        "text": "The automatic method uses two tools [[Evernote]] for the archive and [[ifttt]] for the selection of resources to be curated (in this case [[favourited tweets]]). "
+      },
+      "id": "65052f44db452d70",
+      "type": "add",
+      "after": "4b92eca1e772bd70",
+      "date": 1421224233973
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8bc7c823308e29bd"
+      },
+      "id": "8bc7c823308e29bd",
+      "type": "add",
+      "after": "8ad07fe91158db2a",
+      "date": 1421224239570
+    },
+    {
+      "type": "edit",
+      "id": "8bc7c823308e29bd",
+      "item": {
+        "type": "pagefold",
+        "id": "8bc7c823308e29bd",
+        "text": "Automatic Curation"
+      },
+      "date": 1421224251205
+    },
+    {
+      "type": "move",
+      "order": [
+        "2249d9afbe834ede",
+        "8bc7c823308e29bd",
+        "4b92eca1e772bd70",
+        "65052f44db452d70",
+        "76fd19aada330267"
+      ],
+      "id": "8bc7c823308e29bd",
+      "date": 1421224259991
+    },
+    {
+      "type": "move",
+      "order": [
+        "2249d9afbe834ede",
+        "4b92eca1e772bd70",
+        "8bc7c823308e29bd",
+        "65052f44db452d70",
+        "76fd19aada330267"
+      ],
+      "id": "8bc7c823308e29bd",
+      "date": 1421224262837
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "09a669a30d1b6adf"
+      },
+      "id": "09a669a30d1b6adf",
+      "type": "add",
+      "after": "76fd19aada330267",
+      "date": 1421224266937
+    },
+    {
+      "type": "edit",
+      "id": "09a669a30d1b6adf",
+      "item": {
+        "type": "pagefold",
+        "id": "09a669a30d1b6adf",
+        "text": "Manual curation"
+      },
+      "date": 1421224275041
+    },
+    {
+      "type": "edit",
+      "id": "65052f44db452d70",
+      "item": {
+        "type": "paragraph",
+        "id": "65052f44db452d70",
+        "text": "The automatic method uses two tools [[ifttt]] for the selection of resources to be curated (in this case [[favourited tweets]]) and [[Evernote]] for the archive."
+      },
+      "date": 1421224323574
+    },
+    {
+      "type": "edit",
+      "id": "76fd19aada330267",
+      "item": {
+        "type": "paragraph",
+        "id": "76fd19aada330267",
+        "text": "In addition to [[twitter]], [[ifttt]] has a rich set of interfaces to other web services, so this automated method of curation could be adapted for many other scenarios, for example see the collection of recipes that use [[Evernote]] as an end-point."
+      },
+      "date": 1421224401738
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "13f64a014b8b910d",
+        "text": ""
+      },
+      "id": "13f64a014b8b910d",
+      "type": "add",
+      "after": "76fd19aada330267",
+      "date": 1421224437999
+    },
+    {
+      "type": "edit",
+      "id": "13f64a014b8b910d",
+      "item": {
+        "type": "paragraph",
+        "id": "13f64a014b8b910d",
+        "text": "An advantage of this method is that once set up, [[itttt] works unattended, and twitter favouriting works across all devices and third-party services that use [[Twitter APIs]]."
+      },
+      "date": 1421224545993
+    },
+    {
+      "type": "edit",
+      "id": "13f64a014b8b910d",
+      "item": {
+        "type": "paragraph",
+        "id": "13f64a014b8b910d",
+        "text": "An advantage of this method is that once set up, [[itttt]] works unattended, and twitter favouriting works across all devices and third-party services that use [[Twitter APIs]]."
+      },
+      "date": 1421224556199
+    },
+    {
+      "type": "edit",
+      "id": "76fd19aada330267",
+      "item": {
+        "type": "paragraph",
+        "id": "76fd19aada330267",
+        "text": "In addition to [[Twitter]], [[ifttt]] has a rich set of interfaces to other web services, so this automated method of curation could be adapted for many other scenarios, for example see the collection of recipes that use [[Evernote]] as an end-point."
+      },
+      "date": 1421224574589
+    },
+    {
+      "type": "edit",
+      "id": "13f64a014b8b910d",
+      "item": {
+        "type": "paragraph",
+        "id": "13f64a014b8b910d",
+        "text": "An advantage of this method is that once set up, [[itttt]] works unattended, and twitter favouriting works across all devices and third-party services that use [[Twitter APIs]]. This means that however I browse the web, if my client has a twitter favourite feature, I automatically get my resources curated in [[Evernote]]."
+      },
+      "date": 1421224710157
+    },
+    {
+      "type": "edit",
+      "id": "13f64a014b8b910d",
+      "item": {
+        "type": "paragraph",
+        "id": "13f64a014b8b910d",
+        "text": "An advantage of this method is that once set up, [[itttt]] works unattended, and twitter favouriting works across all devices and third-party services that use [[Twitter APIs]]. This means that however I browse the web, if my client has a \"favourite in twitter feature, I automatically get my resources curated in [[Evernote]]."
+      },
+      "date": 1421224742926
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e5f222be93c1ef0f",
+        "text": ""
+      },
+      "id": "e5f222be93c1ef0f",
+      "type": "add",
+      "after": "13f64a014b8b910d",
+      "date": 1421224748046
+    },
+    {
+      "type": "edit",
+      "id": "e5f222be93c1ef0f",
+      "item": {
+        "type": "paragraph",
+        "id": "e5f222be93c1ef0f",
+        "text": "I use the same method to ..."
+      },
+      "date": 1421224756509
+    }
+  ]
+}

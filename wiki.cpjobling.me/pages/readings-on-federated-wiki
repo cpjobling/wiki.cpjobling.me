@@ -1,0 +1,292 @@
+{
+  "title": "Readings on Federated Wiki",
+  "story": [
+    {
+      "type": "html",
+      "id": "e4ad303af33afca1",
+      "text": "<h3>Hapgood</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "b2225047adef66bc",
+      "text": "Mike Caulfield's blog with many articles on the [[Smallest Federated Wiki]] (tagged [http://hapgood.us/tag/sfw/ sfw]) and other issues concerned with [[Technology Enhanced Learning]]."
+    },
+    {
+      "type": "html",
+      "id": "7b8c68ee5ce2fd08",
+      "text": "<h4>Selected Articles</h4>"
+    },
+    {
+      "type": "markdown",
+      "id": "1e4511d784d291b9",
+      "text": "* Copying a whole site is remarkably easy in SFW [http://hapgood.us/2014/08/21/copying-a-whole-site-is-remarkably-easy-in-smallest-federated-wiki/ html]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Readings on Federated Wiki",
+        "story": []
+      },
+      "date": 1409302180264
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e4ad303af33afca1"
+      },
+      "id": "e4ad303af33afca1",
+      "type": "add",
+      "date": 1409302190116
+    },
+    {
+      "type": "edit",
+      "id": "e4ad303af33afca1",
+      "item": {
+        "type": "html",
+        "id": "e4ad303af33afca1",
+        "text": "<h3>Hapgood</h3>\n\n[]"
+      },
+      "date": 1409302221900
+    },
+    {
+      "type": "edit",
+      "id": "e4ad303af33afca1",
+      "item": {
+        "type": "html",
+        "id": "e4ad303af33afca1",
+        "text": "<h3>Hapgood</h3>\n\n[http://hapgood.us/2014/08/21/copying-a-whole-site-is-remarkably-easy-in-smallest-federated-wiki/ Copying a whole site is Remarkably easy in SFW]"
+      },
+      "date": 1409302281774
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44ef2ad0dbf9e174"
+      },
+      "id": "44ef2ad0dbf9e174",
+      "type": "add",
+      "after": "e4ad303af33afca1",
+      "date": 1409302296662
+    },
+    {
+      "type": "edit",
+      "id": "e4ad303af33afca1",
+      "item": {
+        "type": "html",
+        "id": "e4ad303af33afca1",
+        "text": "<h3>Hapgood</h3>"
+      },
+      "date": 1409302298769
+    },
+    {
+      "type": "edit",
+      "id": "44ef2ad0dbf9e174",
+      "item": {
+        "type": "paragraph",
+        "id": "44ef2ad0dbf9e174",
+        "text": "[http://hapgood.us/2014/08/21/copying-a-whole-site-is-remarkably-easy-in-smallest-federated-wiki/ Copying a whole site is Remarkably easy in SFW]"
+      },
+      "date": 1409302302507
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b2225047adef66bc"
+      },
+      "id": "b2225047adef66bc",
+      "type": "add",
+      "after": "44ef2ad0dbf9e174",
+      "date": 1409302325291
+    },
+    {
+      "type": "edit",
+      "id": "b2225047adef66bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b2225047adef66bc",
+        "text": "Marc Caulfield"
+      },
+      "date": 1409302357082
+    },
+    {
+      "type": "edit",
+      "id": "b2225047adef66bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b2225047adef66bc",
+        "text": "Mike Caulfield's blog and SFW"
+      },
+      "date": 1409302376096
+    },
+    {
+      "type": "move",
+      "order": [
+        "e4ad303af33afca1",
+        "b2225047adef66bc",
+        "44ef2ad0dbf9e174"
+      ],
+      "id": "b2225047adef66bc",
+      "date": 1409302378334
+    },
+    {
+      "type": "edit",
+      "id": "b2225047adef66bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b2225047adef66bc",
+        "text": "Mike Caulfield's blog with many articles on the [[Smallest Federated Wiki]] and other issues concerned with [[Technology Enhanced Learning]]."
+      },
+      "date": 1409302582240
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ebdaa089d71b9e7"
+      },
+      "id": "4ebdaa089d71b9e7",
+      "type": "add",
+      "after": "44ef2ad0dbf9e174",
+      "date": 1409302792138
+    },
+    {
+      "type": "edit",
+      "id": "4ebdaa089d71b9e7",
+      "item": {
+        "type": "paragraph",
+        "id": "4ebdaa089d71b9e7",
+        "text": "Tagged [[http://hapgood.us/tag/sfw/ sfw]]"
+      },
+      "date": 1409302815704
+    },
+    {
+      "type": "move",
+      "order": [
+        "e4ad303af33afca1",
+        "b2225047adef66bc",
+        "4ebdaa089d71b9e7",
+        "44ef2ad0dbf9e174"
+      ],
+      "id": "4ebdaa089d71b9e7",
+      "date": 1409302818685
+    },
+    {
+      "type": "edit",
+      "id": "b2225047adef66bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b2225047adef66bc",
+        "text": "Mike Caulfield's blog with many articles on the [[Smallest Federated Wiki]] (tagged [[http://hapgood.us/tag/sfw/ sfw]]) and other issues concerned with [[Technology Enhanced Learning]]."
+      },
+      "date": 1409302841448
+    },
+    {
+      "type": "remove",
+      "id": "4ebdaa089d71b9e7",
+      "date": 1409302846276
+    },
+    {
+      "type": "edit",
+      "id": "b2225047adef66bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b2225047adef66bc",
+        "text": "Mike Caulfield's blog with many articles on the [[Smallest Federated Wiki]] (tagged [http://hapgood.us/tag/sfw/ sfw]) and other issues concerned with [[Technology Enhanced Learning]]."
+      },
+      "date": 1409302864321
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b8c68ee5ce2fd08"
+      },
+      "id": "7b8c68ee5ce2fd08",
+      "type": "add",
+      "after": "44ef2ad0dbf9e174",
+      "date": 1409302878116
+    },
+    {
+      "type": "edit",
+      "id": "7b8c68ee5ce2fd08",
+      "item": {
+        "type": "html",
+        "id": "7b8c68ee5ce2fd08",
+        "text": "<h4>Selected Articles</h4>"
+      },
+      "date": 1409302900817
+    },
+    {
+      "type": "move",
+      "order": [
+        "e4ad303af33afca1",
+        "b2225047adef66bc",
+        "7b8c68ee5ce2fd08",
+        "44ef2ad0dbf9e174"
+      ],
+      "id": "44ef2ad0dbf9e174",
+      "date": 1409302906902
+    },
+    {
+      "type": "fork",
+      "site": "cpjwiki.herokuapp.com"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e4511d784d291b9"
+      },
+      "id": "1e4511d784d291b9",
+      "type": "add",
+      "after": "44ef2ad0dbf9e174",
+      "date": 1418910214083
+    },
+    {
+      "type": "edit",
+      "id": "1e4511d784d291b9",
+      "item": {
+        "type": "markdown",
+        "id": "1e4511d784d291b9",
+        "text": "* [Copying a whole site is remarkably easy in SFW]()"
+      },
+      "date": 1418910662252
+    },
+    {
+      "type": "remove",
+      "id": "44ef2ad0dbf9e174",
+      "date": 1418910676569
+    },
+    {
+      "type": "edit",
+      "id": "1e4511d784d291b9",
+      "item": {
+        "type": "markdown",
+        "id": "1e4511d784d291b9",
+        "text": "* [Copying a whole site is remarkably easy in SFW](http://hapgood.us/2014/08/21/copying-a-whole-site-is-remarkably-easy-in-smallest-federated-wiki/)"
+      },
+      "date": 1418910680793
+    },
+    {
+      "type": "edit",
+      "id": "1e4511d784d291b9",
+      "item": {
+        "type": "markdown",
+        "id": "1e4511d784d291b9",
+        "text": "* [http://hapgood.us/2014/08/21/copying-a-whole-site-is-remarkably-easy-in-smallest-federated-wiki/ Copying a whole site is remarkably easy in SFW]"
+      },
+      "date": 1418910720525
+    },
+    {
+      "type": "edit",
+      "id": "1e4511d784d291b9",
+      "item": {
+        "type": "markdown",
+        "id": "1e4511d784d291b9",
+        "text": "* Copying a whole site is remarkably easy in SFW [http://hapgood.us/2014/08/21/copying-a-whole-site-is-remarkably-easy-in-smallest-federated-wiki/ html]"
+      },
+      "date": 1418910752500
+    }
+  ],
+  "slug": "readings-on-federated-wiki",
+  "_id": "54003ea458cc290200000001"
+}

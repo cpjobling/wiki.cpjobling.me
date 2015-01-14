@@ -1,0 +1,236 @@
+{
+  "title": "iOS, Android, Windows or Shouldn't Care",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3d3648d23f2b9527",
+      "text": "If you start to encourage a BYOD culture amongst your students, does the choice of platform matter? Apple has been very successful in promoting the idea of a native app and creating a market place (the App Store). The same approach has been followed by Google with its GooglePlay store and Microsoft."
+    },
+    {
+      "type": "paragraph",
+      "id": "df7bc9304d90c2ea",
+      "text": "But apps ignore the fact that it was the Web that started the IT revolution that made the smart phone and an App Store a viable market. All the tools that will be recommended and trialled in #BYOD4L this week will be backed by a Web Service of some kind and will be accessed on laptops through the browser? Why isn't this the norm on Mobiles?"
+    },
+    {
+      "type": "paragraph",
+      "id": "c55a01a49cdc5529",
+      "text": "And given that it isn't the norm, what implications does BYOD have when introduced in institutions whose students will have a range of devices running a range of operating systems? What happens when the app the teacher decides to use is not available as an app on the student's device? "
+    },
+    {
+      "type": "paragraph",
+      "id": "dfdff70960561cb5",
+      "text": "Given the the web is ubiquitous and that browser builders (yes even Microsoft) go to great lengths to support standards, why isn't the mobile web as powerful and pervasive as the desktop web? Should you care?"
+    },
+    {
+      "type": "paragraph",
+      "id": "908e73edce199556",
+      "text": "Example: The VLE"
+    },
+    {
+      "type": "paragraph",
+      "id": "c056b78b18a7f73e",
+      "text": "There is a Blackboard Mobile Learn App [http://www.blackboard.com/Platforms/Mobile/Products/Mobile-Learn/Features.aspx html] for iOS and Android (not Windows!) but why is Blackboard Learn -- a web app -- unusable on mobile browsers? The app costs students $1.99. The Blackboard Learn Platform costs $100 k + but the app is useless without the platform."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "iOS, Android, Windows or Shouldn't Care",
+        "story": []
+      },
+      "date": 1421075684123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d3648d23f2b9527"
+      },
+      "id": "3d3648d23f2b9527",
+      "type": "add",
+      "date": 1421075686178
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c3985e51bedffe2f",
+        "text": ""
+      },
+      "id": "c3985e51bedffe2f",
+      "type": "add",
+      "after": "3d3648d23f2b9527",
+      "date": 1421075701145
+    },
+    {
+      "type": "remove",
+      "id": "c3985e51bedffe2f",
+      "date": 1421075708261
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c056b78b18a7f73e",
+        "text": ""
+      },
+      "id": "c056b78b18a7f73e",
+      "type": "add",
+      "after": "3d3648d23f2b9527",
+      "date": 1421075713632
+    },
+    {
+      "type": "edit",
+      "id": "c056b78b18a7f73e",
+      "item": {
+        "type": "paragraph",
+        "id": "c056b78b18a7f73e",
+        "text": "There is a Blackboard Mobile Learn App [html] for iOS and Android (not Windows!) but why is Blackboard Learn -- itself a web app -- unusable on mobile browsers?"
+      },
+      "date": 1421075883145
+    },
+    {
+      "type": "edit",
+      "id": "c056b78b18a7f73e",
+      "item": {
+        "type": "paragraph",
+        "id": "c056b78b18a7f73e",
+        "text": "There is a Blackboard Mobile Learn App [http://www.blackboard.com/Platforms/Mobile/Products/Mobile-Learn/Features.aspx html] for iOS and Android (not Windows!) but why is Blackboard Learn -- itself a web app -- unusable on mobile browsers? The app costs students $1.99. The Blackboard Learn Platform costs $100 k + but the app is useless without the platform."
+      },
+      "date": 1421076016487
+    },
+    {
+      "type": "edit",
+      "id": "3d3648d23f2b9527",
+      "item": {
+        "type": "paragraph",
+        "id": "3d3648d23f2b9527",
+        "text": "Example: The VLE"
+      },
+      "date": 1421076038897
+    },
+    {
+      "type": "edit",
+      "id": "3d3648d23f2b9527",
+      "item": {
+        "type": "paragraph",
+        "id": "3d3648d23f2b9527",
+        "text": "If you start to encourage a BYOD culture amongst your students, does the choice of platform matter? Apple has been very successful in promoting the idea of a native app and creating a market place (the App Store). The same approach has been followed by Google with its GooglePlay store and Microsoft."
+      },
+      "date": 1421076226543
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "df7bc9304d90c2ea",
+        "text": "Example: The VLE"
+      },
+      "id": "df7bc9304d90c2ea",
+      "type": "add",
+      "after": "3d3648d23f2b9527",
+      "date": 1421076226634
+    },
+    {
+      "type": "edit",
+      "id": "df7bc9304d90c2ea",
+      "item": {
+        "type": "paragraph",
+        "id": "df7bc9304d90c2ea",
+        "text": "But apps ignore the fact that it was the Web that started the IT revolution that made the Smart Phone and an App Store a viable market. All the tools that will be recommended and trialled in #BYOD4L this week will be backed by a Web Service of some kind and will be accessed on laptops through the browser? Why isn't this the norm on Mobiles?"
+      },
+      "date": 1421076394007
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "908e73edce199556",
+        "text": "Example: The VLE"
+      },
+      "id": "908e73edce199556",
+      "type": "add",
+      "after": "df7bc9304d90c2ea",
+      "date": 1421076394093
+    },
+    {
+      "type": "edit",
+      "id": "df7bc9304d90c2ea",
+      "item": {
+        "type": "paragraph",
+        "id": "df7bc9304d90c2ea",
+        "text": "But apps ignore the fact that it was the Web that started the IT revolution that made the smart phone and an App Store a viable market. All the tools that will be recommended and trialled in #BYOD4L this week will be backed by a Web Service of some kind and will be accessed on laptops through the browser? Why isn't this the norm on Mobiles?"
+      },
+      "date": 1421076428881
+    },
+    {
+      "type": "edit",
+      "id": "c056b78b18a7f73e",
+      "item": {
+        "type": "paragraph",
+        "id": "c056b78b18a7f73e",
+        "text": "There is a Blackboard Mobile Learn App [http://www.blackboard.com/Platforms/Mobile/Products/Mobile-Learn/Features.aspx html] for iOS and Android (not Windows!) but why is Blackboard Learn -- a web app -- unusable on mobile browsers? The app costs students $1.99. The Blackboard Learn Platform costs $100 k + but the app is useless without the platform."
+      },
+      "date": 1421076448677
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c55a01a49cdc5529"
+      },
+      "id": "c55a01a49cdc5529",
+      "type": "add",
+      "after": "c056b78b18a7f73e",
+      "date": 1421076455941
+    },
+    {
+      "type": "edit",
+      "id": "c55a01a49cdc5529",
+      "item": {
+        "type": "paragraph",
+        "id": "c55a01a49cdc5529",
+        "text": "And given that it isn't the norm, what implications does BYOD have when introduced in institutions whose students will have a range of devices running a range of operating systems? What happens when the app the teacher decides to use is not available as an app? Given the the web is ubiquitous and that browser builders (yes even Microsoft) go to great lengths to support standards, why isn't the mobile web as powerful and persuasive as the desktop web? What implications does this have for BYOD?"
+      },
+      "date": 1421076688788
+    },
+    {
+      "type": "move",
+      "order": [
+        "3d3648d23f2b9527",
+        "df7bc9304d90c2ea",
+        "c55a01a49cdc5529",
+        "908e73edce199556",
+        "c056b78b18a7f73e"
+      ],
+      "id": "c55a01a49cdc5529",
+      "date": 1421076692088
+    },
+    {
+      "type": "edit",
+      "id": "c55a01a49cdc5529",
+      "item": {
+        "type": "paragraph",
+        "id": "c55a01a49cdc5529",
+        "text": "And given that it isn't the norm, what implications does BYOD have when introduced in institutions whose students will have a range of devices running a range of operating systems? What happens when the app the teacher decides to use is not available as an app on the student's device? "
+      },
+      "date": 1421076730785
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dfdff70960561cb5",
+        "text": "Given the the web is ubiquitous and that browser builders (yes even Microsoft) go to great lengths to support standards, why isn't the mobile web as powerful and persuasive as the desktop web? What implications does this have for BYOD?"
+      },
+      "id": "dfdff70960561cb5",
+      "type": "add",
+      "after": "c55a01a49cdc5529",
+      "date": 1421076730879
+    },
+    {
+      "type": "edit",
+      "id": "dfdff70960561cb5",
+      "item": {
+        "type": "paragraph",
+        "id": "dfdff70960561cb5",
+        "text": "Given the the web is ubiquitous and that browser builders (yes even Microsoft) go to great lengths to support standards, why isn't the mobile web as powerful and pervasive as the desktop web? Should you care?"
+      },
+      "date": 1421076777009
+    }
+  ]
+}

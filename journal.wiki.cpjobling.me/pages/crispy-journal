@@ -19,7 +19,26 @@
     {
       "type": "paragraph",
       "id": "b7130b41542a4377",
-      "text": "Wednesday 17th December -- [[Established new wiki farm]]"
+      "text": "Wednesday 17th -- [[Established new wiki farm]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b45b123c3119a38d",
+      "text": "Thursday 18th:"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4b1b8c116cd975b",
+      "text": "[[What happens when I click a link?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "806ba94825b98566",
+      "text": "Steal the Package / Idea Mining [http://hapgood.us/2014/11/14/steal-the-package/ html] and [[Steal the Package]]"
+    },
+    {
+      "type": "factory",
+      "id": "ba4c25549e7c936b"
     }
   ],
   "journal": [
@@ -192,6 +211,163 @@
         "text": "Wednesday 17th December -- [[Established new wiki farm]]"
       },
       "date": 1418837884374
+    },
+    {
+      "type": "fork",
+      "site": "journal.wiki.cpjobling.me",
+      "date": 1418897292543
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b45b123c3119a38d"
+      },
+      "id": "b45b123c3119a38d",
+      "type": "add",
+      "after": "b7130b41542a4377",
+      "site": "journal.wiki.cpjobling.me",
+      "date": 1418897292541
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "806ba94825b98566"
+      },
+      "id": "806ba94825b98566",
+      "type": "add",
+      "after": "b45b123c3119a38d",
+      "date": 1418897295970
+    },
+    {
+      "type": "fork",
+      "date": 1418897405132
+    },
+    {
+      "type": "edit",
+      "id": "b45b123c3119a38d",
+      "item": {
+        "type": "paragraph",
+        "id": "b45b123c3119a38d",
+        "text": "[[What happens when you click a link?]]"
+      },
+      "date": 1418897407895
+    },
+    {
+      "type": "edit",
+      "id": "b45b123c3119a38d",
+      "item": {
+        "type": "paragraph",
+        "id": "b45b123c3119a38d",
+        "text": "Thursday 18th -- [[What happens when you click a link?]]"
+      },
+      "date": 1418897434455
+    },
+    {
+      "type": "edit",
+      "id": "b7130b41542a4377",
+      "item": {
+        "type": "paragraph",
+        "id": "b7130b41542a4377",
+        "text": "Wednesday 17th -- [[Established new wiki farm]]"
+      },
+      "date": 1418897439252
+    },
+    {
+      "type": "edit",
+      "id": "b45b123c3119a38d",
+      "item": {
+        "type": "paragraph",
+        "id": "b45b123c3119a38d",
+        "text": "Thursday 18th -- [[What happens when I click a link?]]"
+      },
+      "date": 1418897745699
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "84b8dc186c6cb3c2",
+        "text": "[[What happens when I click a link?]]"
+      },
+      "id": "84b8dc186c6cb3c2",
+      "type": "add",
+      "after": "b45b123c3119a38d",
+      "date": 1418915793310
+    },
+    {
+      "type": "edit",
+      "id": "84b8dc186c6cb3c2",
+      "item": {
+        "type": "paragraph",
+        "id": "84b8dc186c6cb3c2",
+        "text": "Thursday 18th:"
+      },
+      "date": 1418915813782
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b4b1b8c116cd975b",
+        "text": "[[What happens when I click a link?]]"
+      },
+      "id": "b4b1b8c116cd975b",
+      "type": "add",
+      "after": "84b8dc186c6cb3c2",
+      "date": 1418915813788
+    },
+    {
+      "type": "remove",
+      "id": "84b8dc186c6cb3c2",
+      "date": 1418915820865
+    },
+    {
+      "type": "edit",
+      "id": "806ba94825b98566",
+      "item": {
+        "type": "paragraph",
+        "id": "806ba94825b98566",
+        "text": "Steal the Package / Idea Mining [html]"
+      },
+      "date": 1418915859534
+    },
+    {
+      "type": "edit",
+      "id": "806ba94825b98566",
+      "item": {
+        "type": "paragraph",
+        "id": "806ba94825b98566",
+        "text": "Steal the Package / Idea Mining [http://hapgood.us/2014/11/14/steal-the-package/ html]"
+      },
+      "date": 1418915868635
+    },
+    {
+      "type": "edit",
+      "id": "806ba94825b98566",
+      "item": {
+        "type": "paragraph",
+        "id": "806ba94825b98566",
+        "text": "Steal the Package / Idea Mining [http://hapgood.us/2014/11/14/steal-the-package/ html] and [[Steal the Package]]"
+      },
+      "date": 1418916039384
+    },
+    {
+      "type": "edit",
+      "id": "b45b123c3119a38d",
+      "item": {
+        "type": "paragraph",
+        "id": "b45b123c3119a38d",
+        "text": "Thursday 18th:"
+      },
+      "date": 1418916574824
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba4c25549e7c936b"
+      },
+      "id": "ba4c25549e7c936b",
+      "type": "add",
+      "after": "806ba94825b98566",
+      "date": 1421052448357
     }
   ]
 }

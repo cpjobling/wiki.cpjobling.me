@@ -1,0 +1,206 @@
+{
+  "title": "Day 1: Connecting",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8efb63a73793b001",
+      "text": "Topic page [https://byod4learning.wordpress.com/topics/1-connecting/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4ab3f8e17e05e36",
+      "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 - Teacher Perspective [http://youtu.be/ZtXYioUjqJc YouTube] and in particular I'd like to address the comment made by the teacher at the end of the recording (about 0m45s) \"can I really do my job as a lecturer without all this technology?\""
+    },
+    {
+      "type": "paragraph",
+      "id": "f16c608f387d46a5",
+      "text": "I think I can relate to this from two perspectives. I want to use the technology but need to find ways to introduce it by making small changes in my teaching that will encourage my students to use their mobile devices more effectively but won't take too much time to set up."
+    },
+    {
+      "type": "paragraph",
+      "id": "cc89a754138cf662",
+      "text": "So what are the easy wins?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Day 1: Connecting",
+        "story": []
+      },
+      "date": 1421052763774
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8efb63a73793b001"
+      },
+      "id": "8efb63a73793b001",
+      "type": "add",
+      "date": 1421052774475
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "The scenario that most appeals to me is Scenario 2 [ YouTube]"
+      },
+      "date": 1421052818272
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 [ YouTube]"
+      },
+      "date": 1421052867934
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 - Teacher Perspective [http://youtu.be/ZtXYioUjqJc YouTube]"
+      },
+      "date": 1421052923247
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 - Teacher Perspective [http://youtu.be/ZtXYioUjqJc YouTube] and in particular I'd like to address the comment made by the teacher at the end of the recording \""
+      },
+      "date": 1421052985843
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 - Teacher Perspective [http://youtu.be/ZtXYioUjqJc YouTube] and in particular I'd like to address the comment made by the teacher at the end of the recording \"can I really do my job as a lecturer without all this technology?\""
+      },
+      "date": 1421053049230
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 - Teacher Perspective [http://youtu.be/ZtXYioUjqJc YouTube] and in particular I'd like to address the comment made by the teacher at the end of the recording (about 0m45s) \"can I really do my job as a lecturer without all this technology?\""
+      },
+      "date": 1421053099912
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f16c608f387d46a5",
+        "text": ""
+      },
+      "id": "f16c608f387d46a5",
+      "type": "add",
+      "after": "8efb63a73793b001",
+      "date": 1421053112066
+    },
+    {
+      "type": "edit",
+      "id": "f16c608f387d46a5",
+      "item": {
+        "type": "paragraph",
+        "id": "f16c608f387d46a5",
+        "text": "I think I can relate to this from two perspectives. I want to use the technology but need to find ways to introduce it by making small wins that won't take too much time to set up but will give a quick win for my students."
+      },
+      "date": 1421053241248
+    },
+    {
+      "type": "edit",
+      "id": "f16c608f387d46a5",
+      "item": {
+        "type": "paragraph",
+        "id": "f16c608f387d46a5",
+        "text": "I think I can relate to this from two perspectives. I want to use the technology but need to find ways to introduce it by making small chnages that won't take too much time to set up but will give a quick win for my students."
+      },
+      "date": 1421053263859
+    },
+    {
+      "type": "edit",
+      "id": "f16c608f387d46a5",
+      "item": {
+        "type": "paragraph",
+        "id": "f16c608f387d46a5",
+        "text": "I think I can relate to this from two perspectives. I want to use the technology but need to find ways to introduce it by making small changes in my teaching that will encourage my students to use their mobile devices more effectively but won't take too much time to set up."
+      },
+      "date": 1421053319652
+    },
+    {
+      "type": "fork",
+      "site": "byod4l.wiki.cpjobling.me",
+      "date": 1421073322617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc89a754138cf662"
+      },
+      "id": "cc89a754138cf662",
+      "type": "add",
+      "after": "f16c608f387d46a5",
+      "site": "byod4l.wiki.cpjobling.me",
+      "date": 1421073322615
+    },
+    {
+      "type": "edit",
+      "id": "cc89a754138cf662",
+      "item": {
+        "type": "paragraph",
+        "id": "cc89a754138cf662",
+        "text": "So what are the easy wins?"
+      },
+      "date": 1421073341239
+    },
+    {
+      "type": "fork",
+      "date": 1421073390431
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "Topic page [https://byod4learning.wordpress.com/topics/2-communicating/ html]"
+      },
+      "date": 1421152384332
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f4ab3f8e17e05e36",
+        "text": "The scenario [https://byod4learning.wordpress.com/topics/1-connecting/ BYOD4L] that most appeals to me is Scenario 2 - Teacher Perspective [http://youtu.be/ZtXYioUjqJc YouTube] and in particular I'd like to address the comment made by the teacher at the end of the recording (about 0m45s) \"can I really do my job as a lecturer without all this technology?\""
+      },
+      "id": "f4ab3f8e17e05e36",
+      "type": "add",
+      "after": "8efb63a73793b001",
+      "date": 1421152384368
+    },
+    {
+      "type": "edit",
+      "id": "8efb63a73793b001",
+      "item": {
+        "type": "paragraph",
+        "id": "8efb63a73793b001",
+        "text": "Topic page [https://byod4learning.wordpress.com/topics/1-connecting/ html]"
+      },
+      "date": 1421152405526
+    }
+  ]
+}

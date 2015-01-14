@@ -1,0 +1,453 @@
+{
+  "title": "Curated Links and Resources",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "f4498383e44af9c0",
+      "text": "Links\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "356575b0cb95087a",
+      "text": "Related to Day 1 Case Study 1"
+    },
+    {
+      "type": "paragraph",
+      "id": "9564509c4d21b678",
+      "text": "A teenager's view of social media [https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6 html]. Thanks to [https://twitter.com/sheilamcn @sheilmcn] for sharing the link."
+    },
+    {
+      "type": "paragraph",
+      "id": "72dd31c22debcfe2",
+      "text": "What Teens Really Think about YouTube, Google+, Reddit and Other\nSocial Media [https://medium.com/backchannel/what-teens-really-think-about-youtube-google-reddit-and-other-social-media-a7263924a506 html] "
+    },
+    {
+      "type": "paragraph",
+      "id": "2ca1227f82e83bb0",
+      "text": "Sue Beckingham's ([https:/twitter.com/suebecks @suebecks]) blog Social Media for Learning [http://socialmediaforlearning.com/ html]"
+    },
+    {
+      "type": "pagefold",
+      "id": "1de9a577391d80ae",
+      "text": "Resources\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "441813e56efae7b4",
+      "text": "Medium [https://medium.com/ html] - a new writing platform for the web and and Backchannel:  tech articles on Medium [https://medium.com/backchannel html]. Does Medium work on mobile?"
+    },
+    {
+      "type": "paragraph",
+      "id": "d5d242f2313bb7bd",
+      "text": "Socrative [http://www.socrative.com/index.php html] - an audience response system that works with mobile devices. See also Poll Everywhere [http://www.polleverywhere.com/ html]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Curated Links and Resources",
+        "story": []
+      },
+      "date": 1421075651544
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c2240deac338a75"
+      },
+      "id": "3c2240deac338a75",
+      "type": "add",
+      "date": 1421075653555
+    },
+    {
+      "type": "remove",
+      "id": "3c2240deac338a75",
+      "date": 1421079093543
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "356575b0cb95087a"
+      },
+      "id": "356575b0cb95087a",
+      "type": "add",
+      "date": 1421079101266
+    },
+    {
+      "type": "edit",
+      "id": "356575b0cb95087a",
+      "item": {
+        "type": "paragraph",
+        "id": "356575b0cb95087a",
+        "text": "What teens think about social media"
+      },
+      "date": 1421079122641
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "72dd31c22debcfe2",
+        "text": ""
+      },
+      "id": "72dd31c22debcfe2",
+      "type": "add",
+      "after": "356575b0cb95087a",
+      "date": 1421079122710
+    },
+    {
+      "type": "edit",
+      "id": "72dd31c22debcfe2",
+      "item": {
+        "type": "paragraph",
+        "id": "72dd31c22debcfe2",
+        "text": "What teens think"
+      },
+      "date": 1421079136992
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7270747d2ab9dd73",
+        "text": " about YouTube etc"
+      },
+      "id": "7270747d2ab9dd73",
+      "type": "add",
+      "after": "72dd31c22debcfe2",
+      "date": 1421079137066
+    },
+    {
+      "type": "remove",
+      "id": "7270747d2ab9dd73",
+      "date": 1421079138720
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb527fa354ba2662",
+        "text": ""
+      },
+      "id": "eb527fa354ba2662",
+      "type": "add",
+      "after": "72dd31c22debcfe2",
+      "date": 1421079140948
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f62000160f1a0cda"
+      },
+      "id": "f62000160f1a0cda",
+      "type": "add",
+      "after": "eb527fa354ba2662",
+      "date": 1421079146358
+    },
+    {
+      "type": "remove",
+      "id": "eb527fa354ba2662",
+      "date": 1421079148488
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1de9a577391d80ae"
+      },
+      "id": "1de9a577391d80ae",
+      "type": "add",
+      "after": "f62000160f1a0cda",
+      "date": 1421079151622
+    },
+    {
+      "type": "remove",
+      "id": "f62000160f1a0cda",
+      "date": 1421079155316
+    },
+    {
+      "type": "edit",
+      "id": "1de9a577391d80ae",
+      "item": {
+        "type": "pagefold",
+        "id": "1de9a577391d80ae",
+        "text": "Resources\n\n"
+      },
+      "date": 1421079167022
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4498383e44af9c0"
+      },
+      "id": "f4498383e44af9c0",
+      "type": "add",
+      "after": "1de9a577391d80ae",
+      "date": 1421079172506
+    },
+    {
+      "type": "edit",
+      "id": "f4498383e44af9c0",
+      "item": {
+        "type": "pagefold",
+        "id": "f4498383e44af9c0",
+        "text": "Links\n"
+      },
+      "date": 1421079178605
+    },
+    {
+      "type": "move",
+      "order": [
+        "356575b0cb95087a",
+        "72dd31c22debcfe2",
+        "f4498383e44af9c0",
+        "1de9a577391d80ae"
+      ],
+      "id": "f4498383e44af9c0",
+      "date": 1421079181608
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "441813e56efae7b4"
+      },
+      "id": "441813e56efae7b4",
+      "type": "add",
+      "after": "1de9a577391d80ae",
+      "date": 1421079189496
+    },
+    {
+      "type": "edit",
+      "id": "441813e56efae7b4",
+      "item": {
+        "type": "paragraph",
+        "id": "441813e56efae7b4",
+        "text": "Medium and Medium Backchannel"
+      },
+      "date": 1421079212174
+    },
+    {
+      "type": "edit",
+      "id": "72dd31c22debcfe2",
+      "item": {
+        "type": "paragraph",
+        "id": "72dd31c22debcfe2",
+        "text": "What teens think about YouTube etc [[https://medium.com/backchannel/what-teens-really-think-about-youtube-google-reddit-and-other-social-media-a7263924a506 html] "
+      },
+      "date": 1421079284629
+    },
+    {
+      "type": "edit",
+      "id": "72dd31c22debcfe2",
+      "item": {
+        "type": "paragraph",
+        "id": "72dd31c22debcfe2",
+        "text": "What teens think about YouTube etc [https://medium.com/backchannel/what-teens-really-think-about-youtube-google-reddit-and-other-social-media-a7263924a506 html] "
+      },
+      "date": 1421079293473
+    },
+    {
+      "type": "edit",
+      "id": "356575b0cb95087a",
+      "item": {
+        "type": "paragraph",
+        "id": "356575b0cb95087a",
+        "text": "What teens think about social media ["
+      },
+      "date": 1421079295540
+    },
+    {
+      "type": "edit",
+      "id": "356575b0cb95087a",
+      "item": {
+        "type": "paragraph",
+        "id": "356575b0cb95087a",
+        "text": "A teenager's view of social media [https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6 html]"
+      },
+      "date": 1421079329036
+    },
+    {
+      "type": "edit",
+      "id": "356575b0cb95087a",
+      "item": {
+        "type": "paragraph",
+        "id": "356575b0cb95087a",
+        "text": "A teenager's view of social media [https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6 html] (day 1 case study 1)"
+      },
+      "date": 1421079344615
+    },
+    {
+      "type": "edit",
+      "id": "72dd31c22debcfe2",
+      "item": {
+        "type": "paragraph",
+        "id": "72dd31c22debcfe2",
+        "text": "What Teens Really Think about YouTube, Google+, Reddit and Other\nSocial Media [https://medium.com/backchannel/what-teens-really-think-about-youtube-google-reddit-and-other-social-media-a7263924a506 html] "
+      },
+      "date": 1421079380276
+    },
+    {
+      "type": "edit",
+      "id": "356575b0cb95087a",
+      "item": {
+        "type": "paragraph",
+        "id": "356575b0cb95087a",
+        "text": "Related to Day 1 Case Study 1"
+      },
+      "date": 1421079391467
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9564509c4d21b678",
+        "text": "A teenager's view of social media [https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6 html] (day 1 case study 1)"
+      },
+      "id": "9564509c4d21b678",
+      "type": "add",
+      "after": "356575b0cb95087a",
+      "date": 1421079391563
+    },
+    {
+      "type": "edit",
+      "id": "9564509c4d21b678",
+      "item": {
+        "type": "paragraph",
+        "id": "9564509c4d21b678",
+        "text": "A teenager's view of social media [https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6 html]. Thanks to @sheilmcn [https://twitter.com/sheilamcn twitter] for sharing the link."
+      },
+      "date": 1421079449156
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4498383e44af9c0",
+        "356575b0cb95087a",
+        "9564509c4d21b678",
+        "72dd31c22debcfe2",
+        "1de9a577391d80ae",
+        "441813e56efae7b4"
+      ],
+      "id": "f4498383e44af9c0",
+      "date": 1421079471772
+    },
+    {
+      "type": "edit",
+      "id": "441813e56efae7b4",
+      "item": {
+        "type": "paragraph",
+        "id": "441813e56efae7b4",
+        "text": "Medium [] - a new writing platform for the web and and Backchannel:  tech articles on Medium. Does Medium work on mobile?"
+      },
+      "date": 1421079564371
+    },
+    {
+      "type": "edit",
+      "id": "441813e56efae7b4",
+      "item": {
+        "type": "paragraph",
+        "id": "441813e56efae7b4",
+        "text": "Medium [https://medium.com/ html] - a new writing platform for the web and and Backchannel:  tech articles on Medium. Does Medium work on mobile?"
+      },
+      "date": 1421079578082
+    },
+    {
+      "type": "edit",
+      "id": "441813e56efae7b4",
+      "item": {
+        "type": "paragraph",
+        "id": "441813e56efae7b4",
+        "text": "Medium [https://medium.com/ html] - a new writing platform for the web and and Backchannel:  tech articles on Medium [https://medium.com/backchannel html]. Does Medium work on mobile?"
+      },
+      "date": 1421079613010
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2ca1227f82e83bb0",
+        "text": ""
+      },
+      "id": "2ca1227f82e83bb0",
+      "type": "add",
+      "after": "72dd31c22debcfe2",
+      "date": 1421150156951
+    },
+    {
+      "type": "edit",
+      "id": "2ca1227f82e83bb0",
+      "item": {
+        "type": "paragraph",
+        "id": "2ca1227f82e83bb0",
+        "text": "S"
+      },
+      "date": 1421150164778
+    },
+    {
+      "type": "edit",
+      "id": "2ca1227f82e83bb0",
+      "item": {
+        "type": "paragraph",
+        "id": "2ca1227f82e83bb0",
+        "text": "Sue Beckingham's ([https:/twitter.com/suebecks @suebecks]) blog Social Media for Learning [html]"
+      },
+      "date": 1421150250024
+    },
+    {
+      "type": "edit",
+      "id": "2ca1227f82e83bb0",
+      "item": {
+        "type": "paragraph",
+        "id": "2ca1227f82e83bb0",
+        "text": "Sue Beckingham's ([https:/twitter.com/suebecks @suebecks]) blog Social Media for Learning [http://socialmediaforlearning.com/ html]"
+      },
+      "date": 1421150269704
+    },
+    {
+      "type": "edit",
+      "id": "9564509c4d21b678",
+      "item": {
+        "type": "paragraph",
+        "id": "9564509c4d21b678",
+        "text": "A teenager's view of social media [https://medium.com/backchannel/a-teenagers-view-on-social-media-1df945c09ac6 html]. Thanks to [https://twitter.com/sheilamcn @sheilmcn] for sharing the link."
+      },
+      "date": 1421150292499
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d5d242f2313bb7bd",
+        "text": ""
+      },
+      "id": "d5d242f2313bb7bd",
+      "type": "add",
+      "after": "441813e56efae7b4",
+      "date": 1421223172555
+    },
+    {
+      "type": "edit",
+      "id": "d5d242f2313bb7bd",
+      "item": {
+        "type": "paragraph",
+        "id": "d5d242f2313bb7bd",
+        "text": "Socrative [html] - an audience response system that works with mobile devices. See also pollanywhere."
+      },
+      "date": 1421223252098
+    },
+    {
+      "type": "edit",
+      "id": "d5d242f2313bb7bd",
+      "item": {
+        "type": "paragraph",
+        "id": "d5d242f2313bb7bd",
+        "text": "Socrative [http://www.socrative.com/index.php html] - an audience response system that works with mobile devices. See also pollanywhere."
+      },
+      "date": 1421223289873
+    },
+    {
+      "type": "edit",
+      "id": "d5d242f2313bb7bd",
+      "item": {
+        "type": "paragraph",
+        "id": "d5d242f2313bb7bd",
+        "text": "Socrative [http://www.socrative.com/index.php html] - an audience response system that works with mobile devices. See also Poll Everywhere [http://www.polleverywhere.com/ html]."
+      },
+      "date": 1421223351774
+    }
+  ]
+}

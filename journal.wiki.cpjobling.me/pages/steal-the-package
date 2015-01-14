@@ -1,0 +1,99 @@
+{
+  "title": "Steal the Package",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "aa73df0073c84bd0",
+      "text": "David Reed says, \"Not all laws come from governments. There is a whole body of “common law” that is generally accepted, transcending government. One such law is that you cannot steal a package that you’ve agreed to transport from point (a) to point (b). That is true whether or not there is a “contract”. It’s just not done, and courts in any jurisdiction, no matter what the government, will hold to that principle.\" [http://www.reed.com/blog-dpr/?p=164 webpage]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0659236cb07a91cd",
+      "text": "He makes a compelling case that the \"inter\" part of the internet works pretty well without governance by ITU or FCC or anyone else for that matter without looking inside the packets."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Steal the Package",
+        "story": []
+      },
+      "date": 1415984543742
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa73df0073c84bd0"
+      },
+      "id": "aa73df0073c84bd0",
+      "type": "add",
+      "date": 1415984545563
+    },
+    {
+      "type": "edit",
+      "id": "aa73df0073c84bd0",
+      "item": {
+        "type": "paragraph",
+        "id": "aa73df0073c84bd0",
+        "text": "Brian Reed says, \"Not all laws come from governments. There is a whole body of “common law” that is generally accepted, transcending government. One such law is that you cannot steal a package that you’ve agreed to transport from point (a) to point (b). That is true whether or not there is a “contract”. It’s just not done, and courts in any jurisdiction, no matter what the government, will hold to that principle.\""
+      },
+      "date": 1415984570258
+    },
+    {
+      "type": "edit",
+      "id": "aa73df0073c84bd0",
+      "item": {
+        "type": "paragraph",
+        "id": "aa73df0073c84bd0",
+        "text": "Brian Reed says, \"Not all laws come from governments. There is a whole body of “common law” that is generally accepted, transcending government. One such law is that you cannot steal a package that you’ve agreed to transport from point (a) to point (b). That is true whether or not there is a “contract”. It’s just not done, and courts in any jurisdiction, no matter what the government, will hold to that principle.\" [http://www.reed.com/blog-dpr/?p=164 webpage]"
+      },
+      "date": 1415984607559
+    },
+    {
+      "type": "edit",
+      "id": "aa73df0073c84bd0",
+      "item": {
+        "type": "paragraph",
+        "id": "aa73df0073c84bd0",
+        "text": "David Reed says, \"Not all laws come from governments. There is a whole body of “common law” that is generally accepted, transcending government. One such law is that you cannot steal a package that you’ve agreed to transport from point (a) to point (b). That is true whether or not there is a “contract”. It’s just not done, and courts in any jurisdiction, no matter what the government, will hold to that principle.\" [http://www.reed.com/blog-dpr/?p=164 webpage]"
+      },
+      "date": 1415984685829
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0659236cb07a91cd"
+      },
+      "id": "0659236cb07a91cd",
+      "type": "add",
+      "after": "aa73df0073c84bd0",
+      "date": 1415984712693
+    },
+    {
+      "type": "edit",
+      "id": "0659236cb07a91cd",
+      "item": {
+        "type": "paragraph",
+        "id": "0659236cb07a91cd",
+        "text": "He makes a compelling case that the \"inter\" part of the internet works pretty well without governance by ITU or FCC or anyone else for that matter."
+      },
+      "date": 1415984796626
+    },
+    {
+      "type": "edit",
+      "id": "0659236cb07a91cd",
+      "item": {
+        "type": "paragraph",
+        "id": "0659236cb07a91cd",
+        "text": "He makes a compelling case that the \"inter\" part of the internet works pretty well without governance by ITU or FCC or anyone else for that matter without looking inside the packets."
+      },
+      "date": 1416022895515
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1418916502606
+    }
+  ]
+}
